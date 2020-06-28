@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <style>
+        html, body{
+            border:0;
+            margin:0;
+            padding:0;
+        }
+
+        rect {
+            fill: none;
+        }
+
+        #chart {
+            position:fixed;
+            left: 0;
+            top: 0;
+
+            width: 60%;
+            height: 100%;
+        }
+
+        #panel-container {
+            position: fixed;
+            right: 0;
+            top: 0;
+
+            width: 40%;
+            height: 100%;
+        }
+
+        #panel {
+            position: relative;
+            width: calc(100% - 50px);
+            height: calc(100% - 50px);
+            overflow: scroll;
+            margin: 15px;
+            border: 1px black solid;
+            border-radius: 5px;
+            padding: 10px;
+
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+        }
+
+        #searchForm {
+            width: 100%;
+        }
+
+        h1, h2 {
+            margin-top: 5px;
+            margin-bottom: 5px;
+        }
+
+        circle {
+            stroke: #fff;
+            stroke-width: 1.5px;
+        }
+
+        line {
+            /*stroke-opacity: 0.9;*/
+        }
+
+        .circle_hover {
+            /*fill: #f00;*/
+        }
+
+        .circle_hover_neighbour {
+            /*fill: #44aaff;*/
+        }
+
+        .circle_hover_gray {
+            fill-opacity: 0.5;
+        }
+
+        .link_hover_gray {
+            stroke: #eee;
+        }
+
+        #name {
+            font-weight: bold;
+        }
+
+        div.colorPatch {
+            width: 1.5em;
+            height: 0.7em;
+            border-radius: 2px;
+            margin: 0 2px;
+            display: inline-block;
+        }
+
+        #coloring_3 {
+            display:none;
+        }
+
+        label[for=coloring_3] {
+            display:none;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="chart"></div>
+    <div id="panel-container">
+        <div id="panel">
+            <h1>grad-db-demo</h1>
+            <p>Instruccions: passeu el cursor per sobre un node per veure la seva informació. Cliqueu-lo per mantenir-lo ressaltat.</p>
+
+            <form name="searchForm" id="searchForm">
+                <input type="text" name="search_field" id="searchField">
+                <ul id="searchResults">
+                </ul>
+            </form>
+
+            <form name="panelForm">
+                <label for="degree"><strong>Grau</strong></label>
+                <select id="degree" name="degree">
+                </select>
+
+                <br>
+
+                <input type="radio" name="dataset" id="dataset_1" value="subjects" checked>
+                <label for="dataset_1">Assignatures</label>
+
+                <input type="radio" name="dataset" id="dataset_2" value="professors">
+                <label for="dataset_2">Professorat</label>
+
+                <br>
+
+                Desde <input type="text" name="from_year" id="fromYear" placeholder="2011" value="2011">
+                fins <input type="text" name="to_year" id="toYear" placeholder="2019" value="2019">
+
+                <br>
+
+                Com a mínim <input type="text" name="minimumK" id="minimumK" placeholder="1" value="1"> connexions.
+
+                <hr>
+
+                <strong>Pintar els nodes segons...</strong>
+                <br>
+
+                <input type="radio" name="coloring" id="coloring_1" value="subject_type" checked>
+                <label for="coloring_1">Tipus d'assignatura</label>
+
+                <input type="radio" name="coloring" id="coloring_3" value="department">
+                <label for="coloring_3">Departament</label>
+
+                <br>
+                <input type="radio" name="coloring" id="coloring_2" value="degree">
+                <label for="coloring_2">Nombre de connexions</label>
+
+                <div id="color-legend"></div>
+
+
+                <!-- TODO: display the color scheme + scale -->
+            </form>
+
+            <p id="name"></p>
+            <p id="department"></p>
+            <p id="extra">
+                <strong id="neighbours-tag">Veïns</strong>
+                <br>
+                <ul id="neighbours-list">
+                </ul>
+
+                <strong id="extra-tag">Competències</strong>
+                <br>
+                <ul id="extra-list">
+                </ul>
+            </p>
+        </div>
+    </div>
+
+    <script src="//d3js.org/d3.v5.min.js"></script>
+
+    <script src="/js/globals.js"></script>
+    <script src="/js/visualization.js"></script>
+    <script src="/js/panel.js"></script>
+</body>
+</html>

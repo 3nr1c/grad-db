@@ -1,0 +1,30 @@
+version: '3.1'
+
+services:
+  db:
+    image: postgres:11.1-alpine
+    restart: always
+    environment:
+      - POSTGRES_PASSWORD=nfsVKNYR73Lmr5h52mArhPxW
+      - POSTGRES_DB=grad
+    ports:
+      - "5432:5432"
+    volumes:
+      - "./sql-scripts/docker/:/docker-entrypoint-initdb.d/"
+
+  scrapper:
+    build: scrapper/
+    volumes:
+      - "./scrapper/app/:/app"
+
+  graphs:
+    build:
+      context: graphs/
+      dockerfile: LocalDockerfile
+    volumes:
+      - "./graphs/app/:/app"
+    ports:
+      - "5000:5000"
+    environment:
+      - FLASK_APP=main.py
+      - FLASK_ENV=development

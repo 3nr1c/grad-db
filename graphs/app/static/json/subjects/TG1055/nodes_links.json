@@ -1,0 +1,2952 @@
+{
+  "links": [
+    {
+      "source": "362451", 
+      "source_name": "DRET ROM\u00c0", 
+      "strength": 2, 
+      "target": "362469", 
+      "target_name": "DRET PROCESSAL CIVIL"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 3, 
+      "target": "362477", 
+      "target_name": "ORGANITZACIONS INTERNACIONALS"
+    }, 
+    {
+      "source": "362457", 
+      "source_name": "DRET INTERNACIONAL PRIVAT", 
+      "strength": 4, 
+      "target": "362468", 
+      "target_name": "INSTRUMENTS DE TR\u00c0FIC EMPRESARIAL"
+    }, 
+    {
+      "source": "362478", 
+      "source_name": "PROTECCI\u00d3 INTERNACIONAL DELS DRETS HUMANS", 
+      "strength": 2, 
+      "target": "362765", 
+      "target_name": "TREBALL FINAL DE GRAU"
+    }, 
+    {
+      "source": "362453", 
+      "source_name": "PENES I DELICTES", 
+      "strength": 3, 
+      "target": "362469", 
+      "target_name": "DRET PROCESSAL CIVIL"
+    }, 
+    {
+      "source": "362441", 
+      "source_name": "T\u00c8CNIQUES DE TREBALL I COMUNICACI\u00d3", 
+      "strength": 2, 
+      "target": "362447", 
+      "target_name": "DRET CIVIL DE LA PERSONA"
+    }, 
+    {
+      "source": "362449", 
+      "source_name": "FONAMENTS DEL DRET PENAL I TEORIA DEL DELICTE", 
+      "strength": 4, 
+      "target": "362451", 
+      "target_name": "DRET ROM\u00c0"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 4, 
+      "target": "362456", 
+      "target_name": "DRET INTERNACIONAL P\u00daBLIC"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 4, 
+      "target": "362446", 
+      "target_name": "PRINCIPIS I INSTITUCIONS CONSTITUCIONALS"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 3, 
+      "target": "362478", 
+      "target_name": "PROTECCI\u00d3 INTERNACIONAL DELS DRETS HUMANS"
+    }, 
+    {
+      "source": "362454", 
+      "source_name": "DRET D'OBLIGACIONS I CONTRACTES", 
+      "strength": 2, 
+      "target": "362481", 
+      "target_name": "DRET INTERNACIONAL ECON\u00d2MIC"
+    }, 
+    {
+      "source": "362469", 
+      "source_name": "DRET PROCESSAL CIVIL", 
+      "strength": 2, 
+      "target": "362470", 
+      "target_name": "DRET PROCESSAL PENAL"
+    }, 
+    {
+      "source": "362457", 
+      "source_name": "DRET INTERNACIONAL PRIVAT", 
+      "strength": 4, 
+      "target": "362507", 
+      "target_name": "DRETS REALS"
+    }, 
+    {
+      "source": "362448", 
+      "source_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT", 
+      "strength": 2, 
+      "target": "362492", 
+      "target_name": "DRET ELECTORAL I PARLAMENTARI"
+    }, 
+    {
+      "source": "362442", 
+      "source_name": "CI\u00c8NCIA POL\u00cdTICA", 
+      "strength": 2, 
+      "target": "362448", 
+      "target_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT"
+    }, 
+    {
+      "source": "362481", 
+      "source_name": "DRET INTERNACIONAL ECON\u00d2MIC", 
+      "strength": 2, 
+      "target": "364725", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET P\u00daBLIC"
+    }, 
+    {
+      "source": "362454", 
+      "source_name": "DRET D'OBLIGACIONS I CONTRACTES", 
+      "strength": 4, 
+      "target": "362469", 
+      "target_name": "DRET PROCESSAL CIVIL"
+    }, 
+    {
+      "source": "362451", 
+      "source_name": "DRET ROM\u00c0", 
+      "strength": 2, 
+      "target": "362466", 
+      "target_name": "DRET DE L'EMPRESA I DEL MERCAT"
+    }, 
+    {
+      "source": "362448", 
+      "source_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT", 
+      "strength": 2, 
+      "target": "362458", 
+      "target_name": "INSTITUCIONS DE DRET COMUNITARI EUROPEU"
+    }, 
+    {
+      "source": "362454", 
+      "source_name": "DRET D'OBLIGACIONS I CONTRACTES", 
+      "strength": 2, 
+      "target": "362478", 
+      "target_name": "PROTECCI\u00d3 INTERNACIONAL DELS DRETS HUMANS"
+    }, 
+    {
+      "source": "362765", 
+      "source_name": "TREBALL FINAL DE GRAU", 
+      "strength": 2, 
+      "target": "364728", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET INTERNACIONAL"
+    }, 
+    {
+      "source": "362457", 
+      "source_name": "DRET INTERNACIONAL PRIVAT", 
+      "strength": 3, 
+      "target": "362477", 
+      "target_name": "ORGANITZACIONS INTERNACIONALS"
+    }, 
+    {
+      "source": "362455", 
+      "source_name": "DRET DE FAM\u00cdLIA I SUCCESSIONS", 
+      "strength": 2, 
+      "target": "362492", 
+      "target_name": "DRET ELECTORAL I PARLAMENTARI"
+    }, 
+    {
+      "source": "362453", 
+      "source_name": "PENES I DELICTES", 
+      "strength": 3, 
+      "target": "362468", 
+      "target_name": "INSTRUMENTS DE TR\u00c0FIC EMPRESARIAL"
+    }, 
+    {
+      "source": "362443", 
+      "source_name": "ECONOMIA", 
+      "strength": 2, 
+      "target": "362506", 
+      "target_name": "SOCIOLOGIA DEL DRET"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 3, 
+      "target": "362450", 
+      "target_name": "HIST\u00d2RIA DEL DRET"
+    }, 
+    {
+      "source": "362452", 
+      "source_name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "strength": 2, 
+      "target": "364728", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET INTERNACIONAL"
+    }, 
+    {
+      "source": "362453", 
+      "source_name": "PENES I DELICTES", 
+      "strength": 3, 
+      "target": "362465", 
+      "target_name": "DRET DEL TREBALL I DE LA SEGURETAT SOCIAL"
+    }, 
+    {
+      "source": "362467", 
+      "source_name": "DRET DE SOCIETATS", 
+      "strength": 4, 
+      "target": "362468", 
+      "target_name": "INSTRUMENTS DE TR\u00c0FIC EMPRESARIAL"
+    }, 
+    {
+      "source": "362448", 
+      "source_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT", 
+      "strength": 2, 
+      "target": "362478", 
+      "target_name": "PROTECCI\u00d3 INTERNACIONAL DELS DRETS HUMANS"
+    }, 
+    {
+      "source": "362453", 
+      "source_name": "PENES I DELICTES", 
+      "strength": 3, 
+      "target": "362466", 
+      "target_name": "DRET DE L'EMPRESA I DEL MERCAT"
+    }, 
+    {
+      "source": "362448", 
+      "source_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT", 
+      "strength": 2, 
+      "target": "362465", 
+      "target_name": "DRET DEL TREBALL I DE LA SEGURETAT SOCIAL"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 2, 
+      "target": "364725", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET P\u00daBLIC"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 2, 
+      "target": "362468", 
+      "target_name": "INSTRUMENTS DE TR\u00c0FIC EMPRESARIAL"
+    }, 
+    {
+      "source": "362467", 
+      "source_name": "DRET DE SOCIETATS", 
+      "strength": 4, 
+      "target": "362469", 
+      "target_name": "DRET PROCESSAL CIVIL"
+    }, 
+    {
+      "source": "362448", 
+      "source_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT", 
+      "strength": 2, 
+      "target": "364725", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET P\u00daBLIC"
+    }, 
+    {
+      "source": "362454", 
+      "source_name": "DRET D'OBLIGACIONS I CONTRACTES", 
+      "strength": 4, 
+      "target": "362468", 
+      "target_name": "INSTRUMENTS DE TR\u00c0FIC EMPRESARIAL"
+    }, 
+    {
+      "source": "362451", 
+      "source_name": "DRET ROM\u00c0", 
+      "strength": 3, 
+      "target": "362454", 
+      "target_name": "DRET D'OBLIGACIONS I CONTRACTES"
+    }, 
+    {
+      "source": "362500", 
+      "source_name": "ESTRAT\u00c8GIES PROCESSALS", 
+      "strength": 2, 
+      "target": "364730", 
+      "target_name": "ESTRAT\u00c8GIES PROCESSALS"
+    }, 
+    {
+      "source": "362458", 
+      "source_name": "INSTITUCIONS DE DRET COMUNITARI EUROPEU", 
+      "strength": 2, 
+      "target": "362469", 
+      "target_name": "DRET PROCESSAL CIVIL"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 3, 
+      "target": "362452", 
+      "target_name": "SISTEMA DE DRETS I LLIBERTATS"
+    }, 
+    {
+      "source": "362452", 
+      "source_name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "strength": 2, 
+      "target": "362506", 
+      "target_name": "SOCIOLOGIA DEL DRET"
+    }, 
+    {
+      "source": "362452", 
+      "source_name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "strength": 4, 
+      "target": "362468", 
+      "target_name": "INSTRUMENTS DE TR\u00c0FIC EMPRESARIAL"
+    }, 
+    {
+      "source": "362452", 
+      "source_name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "strength": 2, 
+      "target": "362765", 
+      "target_name": "TREBALL FINAL DE GRAU"
+    }, 
+    {
+      "source": "362452", 
+      "source_name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "strength": 3, 
+      "target": "364725", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET P\u00daBLIC"
+    }, 
+    {
+      "source": "362477", 
+      "source_name": "ORGANITZACIONS INTERNACIONALS", 
+      "strength": 4, 
+      "target": "362478", 
+      "target_name": "PROTECCI\u00d3 INTERNACIONAL DELS DRETS HUMANS"
+    }, 
+    {
+      "source": "362451", 
+      "source_name": "DRET ROM\u00c0", 
+      "strength": 3, 
+      "target": "362765", 
+      "target_name": "TREBALL FINAL DE GRAU"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 2, 
+      "target": "362506", 
+      "target_name": "SOCIOLOGIA DEL DRET"
+    }, 
+    {
+      "source": "362455", 
+      "source_name": "DRET DE FAM\u00cdLIA I SUCCESSIONS", 
+      "strength": 4, 
+      "target": "362469", 
+      "target_name": "DRET PROCESSAL CIVIL"
+    }, 
+    {
+      "source": "362453", 
+      "source_name": "PENES I DELICTES", 
+      "strength": 3, 
+      "target": "362507", 
+      "target_name": "DRETS REALS"
+    }, 
+    {
+      "source": "362500", 
+      "source_name": "ESTRAT\u00c8GIES PROCESSALS", 
+      "strength": 2, 
+      "target": "364616", 
+      "target_name": "EFECTIVITAT DE LA TUTELA JUDICIAL"
+    }, 
+    {
+      "source": "362466", 
+      "source_name": "DRET DE L'EMPRESA I DEL MERCAT", 
+      "strength": 4, 
+      "target": "362468", 
+      "target_name": "INSTRUMENTS DE TR\u00c0FIC EMPRESARIAL"
+    }, 
+    {
+      "source": "362465", 
+      "source_name": "DRET DEL TREBALL I DE LA SEGURETAT SOCIAL", 
+      "strength": 4, 
+      "target": "362468", 
+      "target_name": "INSTRUMENTS DE TR\u00c0FIC EMPRESARIAL"
+    }, 
+    {
+      "source": "362451", 
+      "source_name": "DRET ROM\u00c0", 
+      "strength": 2, 
+      "target": "364725", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET P\u00daBLIC"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 2, 
+      "target": "362507", 
+      "target_name": "DRETS REALS"
+    }, 
+    {
+      "source": "362464", 
+      "source_name": "FILOSOFIA DEL DRET", 
+      "strength": 2, 
+      "target": "362507", 
+      "target_name": "DRETS REALS"
+    }, 
+    {
+      "source": "362448", 
+      "source_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT", 
+      "strength": 2, 
+      "target": "362468", 
+      "target_name": "INSTRUMENTS DE TR\u00c0FIC EMPRESARIAL"
+    }, 
+    {
+      "source": "362452", 
+      "source_name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "strength": 2, 
+      "target": "362483", 
+      "target_name": "DRET I TRIBUTACI\u00d3 LOCAL"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 3, 
+      "target": "364728", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET INTERNACIONAL"
+    }, 
+    {
+      "source": "362456", 
+      "source_name": "DRET INTERNACIONAL P\u00daBLIC", 
+      "strength": 4, 
+      "target": "362507", 
+      "target_name": "DRETS REALS"
+    }, 
+    {
+      "source": "362458", 
+      "source_name": "INSTITUCIONS DE DRET COMUNITARI EUROPEU", 
+      "strength": 2, 
+      "target": "362465", 
+      "target_name": "DRET DEL TREBALL I DE LA SEGURETAT SOCIAL"
+    }, 
+    {
+      "source": "362455", 
+      "source_name": "DRET DE FAM\u00cdLIA I SUCCESSIONS", 
+      "strength": 5, 
+      "target": "362457", 
+      "target_name": "DRET INTERNACIONAL PRIVAT"
+    }, 
+    {
+      "source": "362452", 
+      "source_name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "strength": 5, 
+      "target": "362455", 
+      "target_name": "DRET DE FAM\u00cdLIA I SUCCESSIONS"
+    }, 
+    {
+      "source": "362451", 
+      "source_name": "DRET ROM\u00c0", 
+      "strength": 2, 
+      "target": "362495", 
+      "target_name": "DRET CAN\u00d2NIC"
+    }, 
+    {
+      "source": "362452", 
+      "source_name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "strength": 4, 
+      "target": "362465", 
+      "target_name": "DRET DEL TREBALL I DE LA SEGURETAT SOCIAL"
+    }, 
+    {
+      "source": "362448", 
+      "source_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT", 
+      "strength": 4, 
+      "target": "362456", 
+      "target_name": "DRET INTERNACIONAL P\u00daBLIC"
+    }, 
+    {
+      "source": "362478", 
+      "source_name": "PROTECCI\u00d3 INTERNACIONAL DELS DRETS HUMANS", 
+      "strength": 4, 
+      "target": "362481", 
+      "target_name": "DRET INTERNACIONAL ECON\u00d2MIC"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 2, 
+      "target": "362468", 
+      "target_name": "INSTRUMENTS DE TR\u00c0FIC EMPRESARIAL"
+    }, 
+    {
+      "source": "362454", 
+      "source_name": "DRET D'OBLIGACIONS I CONTRACTES", 
+      "strength": 3, 
+      "target": "362464", 
+      "target_name": "FILOSOFIA DEL DRET"
+    }, 
+    {
+      "source": "362448", 
+      "source_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT", 
+      "strength": 3, 
+      "target": "362464", 
+      "target_name": "FILOSOFIA DEL DRET"
+    }, 
+    {
+      "source": "362484", 
+      "source_name": "DRET DE LA FUNCI\u00d3 P\u00daBLICA", 
+      "strength": 2, 
+      "target": "364725", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET P\u00daBLIC"
+    }, 
+    {
+      "source": "362465", 
+      "source_name": "DRET DEL TREBALL I DE LA SEGURETAT SOCIAL", 
+      "strength": 4, 
+      "target": "362467", 
+      "target_name": "DRET DE SOCIETATS"
+    }, 
+    {
+      "source": "362458", 
+      "source_name": "INSTITUCIONS DE DRET COMUNITARI EUROPEU", 
+      "strength": 2, 
+      "target": "362466", 
+      "target_name": "DRET DE L'EMPRESA I DEL MERCAT"
+    }, 
+    {
+      "source": "362456", 
+      "source_name": "DRET INTERNACIONAL P\u00daBLIC", 
+      "strength": 4, 
+      "target": "362469", 
+      "target_name": "DRET PROCESSAL CIVIL"
+    }, 
+    {
+      "source": "362452", 
+      "source_name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "strength": 2, 
+      "target": "362484", 
+      "target_name": "DRET DE LA FUNCI\u00d3 P\u00daBLICA"
+    }, 
+    {
+      "source": "362469", 
+      "source_name": "DRET PROCESSAL CIVIL", 
+      "strength": 4, 
+      "target": "362507", 
+      "target_name": "DRETS REALS"
+    }, 
+    {
+      "source": "362469", 
+      "source_name": "DRET PROCESSAL CIVIL", 
+      "strength": 2, 
+      "target": "362499", 
+      "target_name": "MITJANS ALTERNATIUS DE RESOLUCI\u00d3 DE CONFLICTES"
+    }, 
+    {
+      "source": "362457", 
+      "source_name": "DRET INTERNACIONAL PRIVAT", 
+      "strength": 3, 
+      "target": "364728", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET INTERNACIONAL"
+    }, 
+    {
+      "source": "362453", 
+      "source_name": "PENES I DELICTES", 
+      "strength": 2, 
+      "target": "362765", 
+      "target_name": "TREBALL FINAL DE GRAU"
+    }, 
+    {
+      "source": "362453", 
+      "source_name": "PENES I DELICTES", 
+      "strength": 3, 
+      "target": "362455", 
+      "target_name": "DRET DE FAM\u00cdLIA I SUCCESSIONS"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 2, 
+      "target": "362465", 
+      "target_name": "DRET DEL TREBALL I DE LA SEGURETAT SOCIAL"
+    }, 
+    {
+      "source": "362458", 
+      "source_name": "INSTITUCIONS DE DRET COMUNITARI EUROPEU", 
+      "strength": 2, 
+      "target": "362477", 
+      "target_name": "ORGANITZACIONS INTERNACIONALS"
+    }, 
+    {
+      "source": "362456", 
+      "source_name": "DRET INTERNACIONAL P\u00daBLIC", 
+      "strength": 3, 
+      "target": "362481", 
+      "target_name": "DRET INTERNACIONAL ECON\u00d2MIC"
+    }, 
+    {
+      "source": "362454", 
+      "source_name": "DRET D'OBLIGACIONS I CONTRACTES", 
+      "strength": 2, 
+      "target": "362765", 
+      "target_name": "TREBALL FINAL DE GRAU"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 3, 
+      "target": "362464", 
+      "target_name": "FILOSOFIA DEL DRET"
+    }, 
+    {
+      "source": "362478", 
+      "source_name": "PROTECCI\u00d3 INTERNACIONAL DELS DRETS HUMANS", 
+      "strength": 2, 
+      "target": "364725", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET P\u00daBLIC"
+    }, 
+    {
+      "source": "362454", 
+      "source_name": "DRET D'OBLIGACIONS I CONTRACTES", 
+      "strength": 4, 
+      "target": "362465", 
+      "target_name": "DRET DEL TREBALL I DE LA SEGURETAT SOCIAL"
+    }, 
+    {
+      "source": "362451", 
+      "source_name": "DRET ROM\u00c0", 
+      "strength": 2, 
+      "target": "362468", 
+      "target_name": "INSTRUMENTS DE TR\u00c0FIC EMPRESARIAL"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 2, 
+      "target": "362466", 
+      "target_name": "DRET DE L'EMPRESA I DEL MERCAT"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 4, 
+      "target": "362457", 
+      "target_name": "DRET INTERNACIONAL PRIVAT"
+    }, 
+    {
+      "source": "362442", 
+      "source_name": "CI\u00c8NCIA POL\u00cdTICA", 
+      "strength": 2, 
+      "target": "362451", 
+      "target_name": "DRET ROM\u00c0"
+    }, 
+    {
+      "source": "362442", 
+      "source_name": "CI\u00c8NCIA POL\u00cdTICA", 
+      "strength": 2, 
+      "target": "362444", 
+      "target_name": "FONAMENTS DEL DRET"
+    }, 
+    {
+      "source": "362451", 
+      "source_name": "DRET ROM\u00c0", 
+      "strength": 2, 
+      "target": "362467", 
+      "target_name": "DRET DE SOCIETATS"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 2, 
+      "target": "362458", 
+      "target_name": "INSTITUCIONS DE DRET COMUNITARI EUROPEU"
+    }, 
+    {
+      "source": "362452", 
+      "source_name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "strength": 4, 
+      "target": "362469", 
+      "target_name": "DRET PROCESSAL CIVIL"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 3, 
+      "target": "364728", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET INTERNACIONAL"
+    }, 
+    {
+      "source": "362455", 
+      "source_name": "DRET DE FAM\u00cdLIA I SUCCESSIONS", 
+      "strength": 2, 
+      "target": "362481", 
+      "target_name": "DRET INTERNACIONAL ECON\u00d2MIC"
+    }, 
+    {
+      "source": "362457", 
+      "source_name": "DRET INTERNACIONAL PRIVAT", 
+      "strength": 3, 
+      "target": "362481", 
+      "target_name": "DRET INTERNACIONAL ECON\u00d2MIC"
+    }, 
+    {
+      "source": "362449", 
+      "source_name": "FONAMENTS DEL DRET PENAL I TEORIA DEL DELICTE", 
+      "strength": 2, 
+      "target": "362765", 
+      "target_name": "TREBALL FINAL DE GRAU"
+    }, 
+    {
+      "source": "362442", 
+      "source_name": "CI\u00c8NCIA POL\u00cdTICA", 
+      "strength": 2, 
+      "target": "362506", 
+      "target_name": "SOCIOLOGIA DEL DRET"
+    }, 
+    {
+      "source": "362479", 
+      "source_name": "DRET COMUNITARI DE LLIURE CIRCULACI\u00d3", 
+      "strength": 2, 
+      "target": "362481", 
+      "target_name": "DRET INTERNACIONAL ECON\u00d2MIC"
+    }, 
+    {
+      "source": "362484", 
+      "source_name": "DRET DE LA FUNCI\u00d3 P\u00daBLICA", 
+      "strength": 2, 
+      "target": "362492", 
+      "target_name": "DRET ELECTORAL I PARLAMENTARI"
+    }, 
+    {
+      "source": "362483", 
+      "source_name": "DRET I TRIBUTACI\u00d3 LOCAL", 
+      "strength": 2, 
+      "target": "362484", 
+      "target_name": "DRET DE LA FUNCI\u00d3 P\u00daBLICA"
+    }, 
+    {
+      "source": "362451", 
+      "source_name": "DRET ROM\u00c0", 
+      "strength": 2, 
+      "target": "362496", 
+      "target_name": "ESTAT I CONFESSIONS"
+    }, 
+    {
+      "source": "362451", 
+      "source_name": "DRET ROM\u00c0", 
+      "strength": 2, 
+      "target": "362465", 
+      "target_name": "DRET DEL TREBALL I DE LA SEGURETAT SOCIAL"
+    }, 
+    {
+      "source": "364725", 
+      "source_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET P\u00daBLIC", 
+      "strength": 2, 
+      "target": "364728", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET INTERNACIONAL"
+    }, 
+    {
+      "source": "362493", 
+      "source_name": "DRETS FONAMENTALS I GARANTIES", 
+      "strength": 2, 
+      "target": "364725", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET P\u00daBLIC"
+    }, 
+    {
+      "source": "362455", 
+      "source_name": "DRET DE FAM\u00cdLIA I SUCCESSIONS", 
+      "strength": 4, 
+      "target": "362465", 
+      "target_name": "DRET DEL TREBALL I DE LA SEGURETAT SOCIAL"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 2, 
+      "target": "362458", 
+      "target_name": "INSTITUCIONS DE DRET COMUNITARI EUROPEU"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 2, 
+      "target": "362496", 
+      "target_name": "ESTAT I CONFESSIONS"
+    }, 
+    {
+      "source": "362456", 
+      "source_name": "DRET INTERNACIONAL P\u00daBLIC", 
+      "strength": 2, 
+      "target": "362498", 
+      "target_name": "DRET DEL MEDI AMBIENT"
+    }, 
+    {
+      "source": "362458", 
+      "source_name": "INSTITUCIONS DE DRET COMUNITARI EUROPEU", 
+      "strength": 2, 
+      "target": "364728", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET INTERNACIONAL"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 3, 
+      "target": "362765", 
+      "target_name": "TREBALL FINAL DE GRAU"
+    }, 
+    {
+      "source": "362451", 
+      "source_name": "DRET ROM\u00c0", 
+      "strength": 2, 
+      "target": "362506", 
+      "target_name": "SOCIOLOGIA DEL DRET"
+    }, 
+    {
+      "source": "362448", 
+      "source_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT", 
+      "strength": 2, 
+      "target": "364728", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET INTERNACIONAL"
+    }, 
+    {
+      "source": "362457", 
+      "source_name": "DRET INTERNACIONAL PRIVAT", 
+      "strength": 3, 
+      "target": "362478", 
+      "target_name": "PROTECCI\u00d3 INTERNACIONAL DELS DRETS HUMANS"
+    }, 
+    {
+      "source": "362477", 
+      "source_name": "ORGANITZACIONS INTERNACIONALS", 
+      "strength": 2, 
+      "target": "364725", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET P\u00daBLIC"
+    }, 
+    {
+      "source": "362451", 
+      "source_name": "DRET ROM\u00c0", 
+      "strength": 3, 
+      "target": "362477", 
+      "target_name": "ORGANITZACIONS INTERNACIONALS"
+    }, 
+    {
+      "source": "362495", 
+      "source_name": "DRET CAN\u00d2NIC", 
+      "strength": 2, 
+      "target": "362496", 
+      "target_name": "ESTAT I CONFESSIONS"
+    }, 
+    {
+      "source": "362441", 
+      "source_name": "T\u00c8CNIQUES DE TREBALL I COMUNICACI\u00d3", 
+      "strength": 2, 
+      "target": "362444", 
+      "target_name": "FONAMENTS DEL DRET"
+    }, 
+    {
+      "source": "362457", 
+      "source_name": "DRET INTERNACIONAL PRIVAT", 
+      "strength": 2, 
+      "target": "362506", 
+      "target_name": "SOCIOLOGIA DEL DRET"
+    }, 
+    {
+      "source": "362454", 
+      "source_name": "DRET D'OBLIGACIONS I CONTRACTES", 
+      "strength": 4, 
+      "target": "362466", 
+      "target_name": "DRET DE L'EMPRESA I DEL MERCAT"
+    }, 
+    {
+      "source": "362501", 
+      "source_name": "JURISDICCI\u00d3 VOLUNT\u00c0RIA", 
+      "strength": 2, 
+      "target": "364616", 
+      "target_name": "EFECTIVITAT DE LA TUTELA JUDICIAL"
+    }, 
+    {
+      "source": "362492", 
+      "source_name": "DRET ELECTORAL I PARLAMENTARI", 
+      "strength": 3, 
+      "target": "364725", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET P\u00daBLIC"
+    }, 
+    {
+      "source": "362453", 
+      "source_name": "PENES I DELICTES", 
+      "strength": 3, 
+      "target": "362457", 
+      "target_name": "DRET INTERNACIONAL PRIVAT"
+    }, 
+    {
+      "source": "362499", 
+      "source_name": "MITJANS ALTERNATIUS DE RESOLUCI\u00d3 DE CONFLICTES", 
+      "strength": 2, 
+      "target": "364616", 
+      "target_name": "EFECTIVITAT DE LA TUTELA JUDICIAL"
+    }, 
+    {
+      "source": "362452", 
+      "source_name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "strength": 2, 
+      "target": "362458", 
+      "target_name": "INSTITUCIONS DE DRET COMUNITARI EUROPEU"
+    }, 
+    {
+      "source": "362448", 
+      "source_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT", 
+      "strength": 3, 
+      "target": "362455", 
+      "target_name": "DRET DE FAM\u00cdLIA I SUCCESSIONS"
+    }, 
+    {
+      "source": "362454", 
+      "source_name": "DRET D'OBLIGACIONS I CONTRACTES", 
+      "strength": 4, 
+      "target": "362467", 
+      "target_name": "DRET DE SOCIETATS"
+    }, 
+    {
+      "source": "362452", 
+      "source_name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "strength": 2, 
+      "target": "362481", 
+      "target_name": "DRET INTERNACIONAL ECON\u00d2MIC"
+    }, 
+    {
+      "source": "362501", 
+      "source_name": "JURISDICCI\u00d3 VOLUNT\u00c0RIA", 
+      "strength": 2, 
+      "target": "364730", 
+      "target_name": "ESTRAT\u00c8GIES PROCESSALS"
+    }, 
+    {
+      "source": "362448", 
+      "source_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT", 
+      "strength": 3, 
+      "target": "362452", 
+      "target_name": "SISTEMA DE DRETS I LLIBERTATS"
+    }, 
+    {
+      "source": "362448", 
+      "source_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT", 
+      "strength": 2, 
+      "target": "362507", 
+      "target_name": "DRETS REALS"
+    }, 
+    {
+      "source": "362448", 
+      "source_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT", 
+      "strength": 3, 
+      "target": "362449", 
+      "target_name": "FONAMENTS DEL DRET PENAL I TEORIA DEL DELICTE"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 2, 
+      "target": "362465", 
+      "target_name": "DRET DEL TREBALL I DE LA SEGURETAT SOCIAL"
+    }, 
+    {
+      "source": "362456", 
+      "source_name": "DRET INTERNACIONAL P\u00daBLIC", 
+      "strength": 2, 
+      "target": "362765", 
+      "target_name": "TREBALL FINAL DE GRAU"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 3, 
+      "target": "362454", 
+      "target_name": "DRET D'OBLIGACIONS I CONTRACTES"
+    }, 
+    {
+      "source": "362478", 
+      "source_name": "PROTECCI\u00d3 INTERNACIONAL DELS DRETS HUMANS", 
+      "strength": 2, 
+      "target": "362479", 
+      "target_name": "DRET COMUNITARI DE LLIURE CIRCULACI\u00d3"
+    }, 
+    {
+      "source": "362477", 
+      "source_name": "ORGANITZACIONS INTERNACIONALS", 
+      "strength": 2, 
+      "target": "362765", 
+      "target_name": "TREBALL FINAL DE GRAU"
+    }, 
+    {
+      "source": "362452", 
+      "source_name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "strength": 4, 
+      "target": "362467", 
+      "target_name": "DRET DE SOCIETATS"
+    }, 
+    {
+      "source": "362453", 
+      "source_name": "PENES I DELICTES", 
+      "strength": 3, 
+      "target": "362467", 
+      "target_name": "DRET DE SOCIETATS"
+    }, 
+    {
+      "source": "362452", 
+      "source_name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "strength": 2, 
+      "target": "362478", 
+      "target_name": "PROTECCI\u00d3 INTERNACIONAL DELS DRETS HUMANS"
+    }, 
+    {
+      "source": "362477", 
+      "source_name": "ORGANITZACIONS INTERNACIONALS", 
+      "strength": 2, 
+      "target": "362479", 
+      "target_name": "DRET COMUNITARI DE LLIURE CIRCULACI\u00d3"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 3, 
+      "target": "362477", 
+      "target_name": "ORGANITZACIONS INTERNACIONALS"
+    }, 
+    {
+      "source": "362455", 
+      "source_name": "DRET DE FAM\u00cdLIA I SUCCESSIONS", 
+      "strength": 2, 
+      "target": "364725", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET P\u00daBLIC"
+    }, 
+    {
+      "source": "362469", 
+      "source_name": "DRET PROCESSAL CIVIL", 
+      "strength": 2, 
+      "target": "362765", 
+      "target_name": "TREBALL FINAL DE GRAU"
+    }, 
+    {
+      "source": "362469", 
+      "source_name": "DRET PROCESSAL CIVIL", 
+      "strength": 2, 
+      "target": "364730", 
+      "target_name": "ESTRAT\u00c8GIES PROCESSALS"
+    }, 
+    {
+      "source": "362448", 
+      "source_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT", 
+      "strength": 6, 
+      "target": "362451", 
+      "target_name": "DRET ROM\u00c0"
+    }, 
+    {
+      "source": "362456", 
+      "source_name": "DRET INTERNACIONAL P\u00daBLIC", 
+      "strength": 4, 
+      "target": "362467", 
+      "target_name": "DRET DE SOCIETATS"
+    }, 
+    {
+      "source": "362452", 
+      "source_name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "strength": 6, 
+      "target": "362456", 
+      "target_name": "DRET INTERNACIONAL P\u00daBLIC"
+    }, 
+    {
+      "source": "362454", 
+      "source_name": "DRET D'OBLIGACIONS I CONTRACTES", 
+      "strength": 2, 
+      "target": "362477", 
+      "target_name": "ORGANITZACIONS INTERNACIONALS"
+    }, 
+    {
+      "source": "362481", 
+      "source_name": "DRET INTERNACIONAL ECON\u00d2MIC", 
+      "strength": 4, 
+      "target": "364728", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET INTERNACIONAL"
+    }, 
+    {
+      "source": "362448", 
+      "source_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT", 
+      "strength": 2, 
+      "target": "362466", 
+      "target_name": "DRET DE L'EMPRESA I DEL MERCAT"
+    }, 
+    {
+      "source": "362453", 
+      "source_name": "PENES I DELICTES", 
+      "strength": 2, 
+      "target": "362458", 
+      "target_name": "INSTITUCIONS DE DRET COMUNITARI EUROPEU"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 7, 
+      "target": "362448", 
+      "target_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT"
+    }, 
+    {
+      "source": "362455", 
+      "source_name": "DRET DE FAM\u00cdLIA I SUCCESSIONS", 
+      "strength": 5, 
+      "target": "362456", 
+      "target_name": "DRET INTERNACIONAL P\u00daBLIC"
+    }, 
+    {
+      "source": "362446", 
+      "source_name": "PRINCIPIS I INSTITUCIONS CONSTITUCIONALS", 
+      "strength": 4, 
+      "target": "362447", 
+      "target_name": "DRET CIVIL DE LA PERSONA"
+    }, 
+    {
+      "source": "362477", 
+      "source_name": "ORGANITZACIONS INTERNACIONALS", 
+      "strength": 4, 
+      "target": "362481", 
+      "target_name": "DRET INTERNACIONAL ECON\u00d2MIC"
+    }, 
+    {
+      "source": "362500", 
+      "source_name": "ESTRAT\u00c8GIES PROCESSALS", 
+      "strength": 2, 
+      "target": "362501", 
+      "target_name": "JURISDICCI\u00d3 VOLUNT\u00c0RIA"
+    }, 
+    {
+      "source": "362448", 
+      "source_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT", 
+      "strength": 2, 
+      "target": "362481", 
+      "target_name": "DRET INTERNACIONAL ECON\u00d2MIC"
+    }, 
+    {
+      "source": "362456", 
+      "source_name": "DRET INTERNACIONAL P\u00daBLIC", 
+      "strength": 2, 
+      "target": "362492", 
+      "target_name": "DRET ELECTORAL I PARLAMENTARI"
+    }, 
+    {
+      "source": "362465", 
+      "source_name": "DRET DEL TREBALL I DE LA SEGURETAT SOCIAL", 
+      "strength": 4, 
+      "target": "362466", 
+      "target_name": "DRET DE L'EMPRESA I DEL MERCAT"
+    }, 
+    {
+      "source": "362464", 
+      "source_name": "FILOSOFIA DEL DRET", 
+      "strength": 2, 
+      "target": "362465", 
+      "target_name": "DRET DEL TREBALL I DE LA SEGURETAT SOCIAL"
+    }, 
+    {
+      "source": "362450", 
+      "source_name": "HIST\u00d2RIA DEL DRET", 
+      "strength": 3, 
+      "target": "362451", 
+      "target_name": "DRET ROM\u00c0"
+    }, 
+    {
+      "source": "362467", 
+      "source_name": "DRET DE SOCIETATS", 
+      "strength": 2, 
+      "target": "362765", 
+      "target_name": "TREBALL FINAL DE GRAU"
+    }, 
+    {
+      "source": "362468", 
+      "source_name": "INSTRUMENTS DE TR\u00c0FIC EMPRESARIAL", 
+      "strength": 4, 
+      "target": "362507", 
+      "target_name": "DRETS REALS"
+    }, 
+    {
+      "source": "362464", 
+      "source_name": "FILOSOFIA DEL DRET", 
+      "strength": 2, 
+      "target": "362468", 
+      "target_name": "INSTRUMENTS DE TR\u00c0FIC EMPRESARIAL"
+    }, 
+    {
+      "source": "362451", 
+      "source_name": "DRET ROM\u00c0", 
+      "strength": 3, 
+      "target": "362478", 
+      "target_name": "PROTECCI\u00d3 INTERNACIONAL DELS DRETS HUMANS"
+    }, 
+    {
+      "source": "362457", 
+      "source_name": "DRET INTERNACIONAL PRIVAT", 
+      "strength": 3, 
+      "target": "362464", 
+      "target_name": "FILOSOFIA DEL DRET"
+    }, 
+    {
+      "source": "362452", 
+      "source_name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "strength": 2, 
+      "target": "362477", 
+      "target_name": "ORGANITZACIONS INTERNACIONALS"
+    }, 
+    {
+      "source": "362451", 
+      "source_name": "DRET ROM\u00c0", 
+      "strength": 3, 
+      "target": "362455", 
+      "target_name": "DRET DE FAM\u00cdLIA I SUCCESSIONS"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 2, 
+      "target": "362467", 
+      "target_name": "DRET DE SOCIETATS"
+    }, 
+    {
+      "source": "362452", 
+      "source_name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "strength": 3, 
+      "target": "362453", 
+      "target_name": "PENES I DELICTES"
+    }, 
+    {
+      "source": "362441", 
+      "source_name": "T\u00c8CNIQUES DE TREBALL I COMUNICACI\u00d3", 
+      "strength": 2, 
+      "target": "362451", 
+      "target_name": "DRET ROM\u00c0"
+    }, 
+    {
+      "source": "362451", 
+      "source_name": "DRET ROM\u00c0", 
+      "strength": 4, 
+      "target": "362456", 
+      "target_name": "DRET INTERNACIONAL P\u00daBLIC"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 2, 
+      "target": "362506", 
+      "target_name": "SOCIOLOGIA DEL DRET"
+    }, 
+    {
+      "source": "362457", 
+      "source_name": "DRET INTERNACIONAL PRIVAT", 
+      "strength": 2, 
+      "target": "362479", 
+      "target_name": "DRET COMUNITARI DE LLIURE CIRCULACI\u00d3"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 3, 
+      "target": "362452", 
+      "target_name": "SISTEMA DE DRETS I LLIBERTATS"
+    }, 
+    {
+      "source": "362464", 
+      "source_name": "FILOSOFIA DEL DRET", 
+      "strength": 2, 
+      "target": "362466", 
+      "target_name": "DRET DE L'EMPRESA I DEL MERCAT"
+    }, 
+    {
+      "source": "362465", 
+      "source_name": "DRET DEL TREBALL I DE LA SEGURETAT SOCIAL", 
+      "strength": 4, 
+      "target": "362507", 
+      "target_name": "DRETS REALS"
+    }, 
+    {
+      "source": "362457", 
+      "source_name": "DRET INTERNACIONAL PRIVAT", 
+      "strength": 2, 
+      "target": "362765", 
+      "target_name": "TREBALL FINAL DE GRAU"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 2, 
+      "target": "362507", 
+      "target_name": "DRETS REALS"
+    }, 
+    {
+      "source": "362457", 
+      "source_name": "DRET INTERNACIONAL PRIVAT", 
+      "strength": 4, 
+      "target": "362469", 
+      "target_name": "DRET PROCESSAL CIVIL"
+    }, 
+    {
+      "source": "362468", 
+      "source_name": "INSTRUMENTS DE TR\u00c0FIC EMPRESARIAL", 
+      "strength": 2, 
+      "target": "362765", 
+      "target_name": "TREBALL FINAL DE GRAU"
+    }, 
+    {
+      "source": "362457", 
+      "source_name": "DRET INTERNACIONAL PRIVAT", 
+      "strength": 3, 
+      "target": "362458", 
+      "target_name": "INSTITUCIONS DE DRET COMUNITARI EUROPEU"
+    }, 
+    {
+      "source": "362452", 
+      "source_name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "strength": 4, 
+      "target": "362507", 
+      "target_name": "DRETS REALS"
+    }, 
+    {
+      "source": "362457", 
+      "source_name": "DRET INTERNACIONAL PRIVAT", 
+      "strength": 4, 
+      "target": "362467", 
+      "target_name": "DRET DE SOCIETATS"
+    }, 
+    {
+      "source": "362465", 
+      "source_name": "DRET DEL TREBALL I DE LA SEGURETAT SOCIAL", 
+      "strength": 4, 
+      "target": "362469", 
+      "target_name": "DRET PROCESSAL CIVIL"
+    }, 
+    {
+      "source": "362451", 
+      "source_name": "DRET ROM\u00c0", 
+      "strength": 2, 
+      "target": "362507", 
+      "target_name": "DRETS REALS"
+    }, 
+    {
+      "source": "362451", 
+      "source_name": "DRET ROM\u00c0", 
+      "strength": 3, 
+      "target": "362481", 
+      "target_name": "DRET INTERNACIONAL ECON\u00d2MIC"
+    }, 
+    {
+      "source": "362467", 
+      "source_name": "DRET DE SOCIETATS", 
+      "strength": 4, 
+      "target": "362507", 
+      "target_name": "DRETS REALS"
+    }, 
+    {
+      "source": "362469", 
+      "source_name": "DRET PROCESSAL CIVIL", 
+      "strength": 2, 
+      "target": "364616", 
+      "target_name": "EFECTIVITAT DE LA TUTELA JUDICIAL"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 3, 
+      "target": "362454", 
+      "target_name": "DRET D'OBLIGACIONS I CONTRACTES"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 3, 
+      "target": "362450", 
+      "target_name": "HIST\u00d2RIA DEL DRET"
+    }, 
+    {
+      "source": "362451", 
+      "source_name": "DRET ROM\u00c0", 
+      "strength": 3, 
+      "target": "362452", 
+      "target_name": "SISTEMA DE DRETS I LLIBERTATS"
+    }, 
+    {
+      "source": "362455", 
+      "source_name": "DRET DE FAM\u00cdLIA I SUCCESSIONS", 
+      "strength": 4, 
+      "target": "362507", 
+      "target_name": "DRETS REALS"
+    }, 
+    {
+      "source": "362452", 
+      "source_name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "strength": 5, 
+      "target": "362454", 
+      "target_name": "DRET D'OBLIGACIONS I CONTRACTES"
+    }, 
+    {
+      "source": "362499", 
+      "source_name": "MITJANS ALTERNATIUS DE RESOLUCI\u00d3 DE CONFLICTES", 
+      "strength": 2, 
+      "target": "362500", 
+      "target_name": "ESTRAT\u00c8GIES PROCESSALS"
+    }, 
+    {
+      "source": "362454", 
+      "source_name": "DRET D'OBLIGACIONS I CONTRACTES", 
+      "strength": 2, 
+      "target": "364725", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET P\u00daBLIC"
+    }, 
+    {
+      "source": "362468", 
+      "source_name": "INSTRUMENTS DE TR\u00c0FIC EMPRESARIAL", 
+      "strength": 4, 
+      "target": "362469", 
+      "target_name": "DRET PROCESSAL CIVIL"
+    }, 
+    {
+      "source": "362481", 
+      "source_name": "DRET INTERNACIONAL ECON\u00d2MIC", 
+      "strength": 2, 
+      "target": "362765", 
+      "target_name": "TREBALL FINAL DE GRAU"
+    }, 
+    {
+      "source": "362492", 
+      "source_name": "DRET ELECTORAL I PARLAMENTARI", 
+      "strength": 2, 
+      "target": "362493", 
+      "target_name": "DRETS FONAMENTALS I GARANTIES"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 2, 
+      "target": "362495", 
+      "target_name": "DRET CAN\u00d2NIC"
+    }, 
+    {
+      "source": "362454", 
+      "source_name": "DRET D'OBLIGACIONS I CONTRACTES", 
+      "strength": 5, 
+      "target": "362456", 
+      "target_name": "DRET INTERNACIONAL P\u00daBLIC"
+    }, 
+    {
+      "source": "362448", 
+      "source_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT", 
+      "strength": 2, 
+      "target": "362450", 
+      "target_name": "HIST\u00d2RIA DEL DRET"
+    }, 
+    {
+      "source": "362446", 
+      "source_name": "PRINCIPIS I INSTITUCIONS CONSTITUCIONALS", 
+      "strength": 2, 
+      "target": "362450", 
+      "target_name": "HIST\u00d2RIA DEL DRET"
+    }, 
+    {
+      "source": "362499", 
+      "source_name": "MITJANS ALTERNATIUS DE RESOLUCI\u00d3 DE CONFLICTES", 
+      "strength": 2, 
+      "target": "364730", 
+      "target_name": "ESTRAT\u00c8GIES PROCESSALS"
+    }, 
+    {
+      "source": "362469", 
+      "source_name": "DRET PROCESSAL CIVIL", 
+      "strength": 2, 
+      "target": "362501", 
+      "target_name": "JURISDICCI\u00d3 VOLUNT\u00c0RIA"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 2, 
+      "target": "362495", 
+      "target_name": "DRET CAN\u00d2NIC"
+    }, 
+    {
+      "source": "362446", 
+      "source_name": "PRINCIPIS I INSTITUCIONS CONSTITUCIONALS", 
+      "strength": 3, 
+      "target": "362448", 
+      "target_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT"
+    }, 
+    {
+      "source": "362452", 
+      "source_name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "strength": 3, 
+      "target": "362464", 
+      "target_name": "FILOSOFIA DEL DRET"
+    }, 
+    {
+      "source": "362478", 
+      "source_name": "PROTECCI\u00d3 INTERNACIONAL DELS DRETS HUMANS", 
+      "strength": 4, 
+      "target": "364728", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET INTERNACIONAL"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 2, 
+      "target": "362496", 
+      "target_name": "ESTAT I CONFESSIONS"
+    }, 
+    {
+      "source": "362457", 
+      "source_name": "DRET INTERNACIONAL PRIVAT", 
+      "strength": 4, 
+      "target": "362465", 
+      "target_name": "DRET DEL TREBALL I DE LA SEGURETAT SOCIAL"
+    }, 
+    {
+      "source": "362455", 
+      "source_name": "DRET DE FAM\u00cdLIA I SUCCESSIONS", 
+      "strength": 2, 
+      "target": "362477", 
+      "target_name": "ORGANITZACIONS INTERNACIONALS"
+    }, 
+    {
+      "source": "362451", 
+      "source_name": "DRET ROM\u00c0", 
+      "strength": 4, 
+      "target": "362457", 
+      "target_name": "DRET INTERNACIONAL PRIVAT"
+    }, 
+    {
+      "source": "362454", 
+      "source_name": "DRET D'OBLIGACIONS I CONTRACTES", 
+      "strength": 2, 
+      "target": "364728", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET INTERNACIONAL"
+    }, 
+    {
+      "source": "362456", 
+      "source_name": "DRET INTERNACIONAL P\u00daBLIC", 
+      "strength": 4, 
+      "target": "362466", 
+      "target_name": "DRET DE L'EMPRESA I DEL MERCAT"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 2, 
+      "target": "362467", 
+      "target_name": "DRET DE SOCIETATS"
+    }, 
+    {
+      "source": "362446", 
+      "source_name": "PRINCIPIS I INSTITUCIONS CONSTITUCIONALS", 
+      "strength": 2, 
+      "target": "362457", 
+      "target_name": "DRET INTERNACIONAL PRIVAT"
+    }, 
+    {
+      "source": "362451", 
+      "source_name": "DRET ROM\u00c0", 
+      "strength": 2, 
+      "target": "362492", 
+      "target_name": "DRET ELECTORAL I PARLAMENTARI"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 4, 
+      "target": "362457", 
+      "target_name": "DRET INTERNACIONAL PRIVAT"
+    }, 
+    {
+      "source": "362452", 
+      "source_name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "strength": 2, 
+      "target": "362493", 
+      "target_name": "DRETS FONAMENTALS I GARANTIES"
+    }, 
+    {
+      "source": "362457", 
+      "source_name": "DRET INTERNACIONAL PRIVAT", 
+      "strength": 2, 
+      "target": "362492", 
+      "target_name": "DRET ELECTORAL I PARLAMENTARI"
+    }, 
+    {
+      "source": "362453", 
+      "source_name": "PENES I DELICTES", 
+      "strength": 3, 
+      "target": "362454", 
+      "target_name": "DRET D'OBLIGACIONS I CONTRACTES"
+    }, 
+    {
+      "source": "362466", 
+      "source_name": "DRET DE L'EMPRESA I DEL MERCAT", 
+      "strength": 2, 
+      "target": "362765", 
+      "target_name": "TREBALL FINAL DE GRAU"
+    }, 
+    {
+      "source": "362464", 
+      "source_name": "FILOSOFIA DEL DRET", 
+      "strength": 2, 
+      "target": "362467", 
+      "target_name": "DRET DE SOCIETATS"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 2, 
+      "target": "362492", 
+      "target_name": "DRET ELECTORAL I PARLAMENTARI"
+    }, 
+    {
+      "source": "362448", 
+      "source_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT", 
+      "strength": 2, 
+      "target": "362467", 
+      "target_name": "DRET DE SOCIETATS"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 2, 
+      "target": "364725", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET P\u00daBLIC"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 3, 
+      "target": "362478", 
+      "target_name": "PROTECCI\u00d3 INTERNACIONAL DELS DRETS HUMANS"
+    }, 
+    {
+      "source": "362457", 
+      "source_name": "DRET INTERNACIONAL PRIVAT", 
+      "strength": 2, 
+      "target": "364725", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET P\u00daBLIC"
+    }, 
+    {
+      "source": "362456", 
+      "source_name": "DRET INTERNACIONAL P\u00daBLIC", 
+      "strength": 3, 
+      "target": "362478", 
+      "target_name": "PROTECCI\u00d3 INTERNACIONAL DELS DRETS HUMANS"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 2, 
+      "target": "362469", 
+      "target_name": "DRET PROCESSAL CIVIL"
+    }, 
+    {
+      "source": "362456", 
+      "source_name": "DRET INTERNACIONAL P\u00daBLIC", 
+      "strength": 3, 
+      "target": "362477", 
+      "target_name": "ORGANITZACIONS INTERNACIONALS"
+    }, 
+    {
+      "source": "362451", 
+      "source_name": "DRET ROM\u00c0", 
+      "strength": 3, 
+      "target": "364728", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET INTERNACIONAL"
+    }, 
+    {
+      "source": "362456", 
+      "source_name": "DRET INTERNACIONAL P\u00daBLIC", 
+      "strength": 2, 
+      "target": "362506", 
+      "target_name": "SOCIOLOGIA DEL DRET"
+    }, 
+    {
+      "source": "362483", 
+      "source_name": "DRET I TRIBUTACI\u00d3 LOCAL", 
+      "strength": 2, 
+      "target": "364725", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET P\u00daBLIC"
+    }, 
+    {
+      "source": "362481", 
+      "source_name": "DRET INTERNACIONAL ECON\u00d2MIC", 
+      "strength": 2, 
+      "target": "362492", 
+      "target_name": "DRET ELECTORAL I PARLAMENTARI"
+    }, 
+    {
+      "source": "362507", 
+      "source_name": "DRETS REALS", 
+      "strength": 2, 
+      "target": "362765", 
+      "target_name": "TREBALL FINAL DE GRAU"
+    }, 
+    {
+      "source": "362456", 
+      "source_name": "DRET INTERNACIONAL P\u00daBLIC", 
+      "strength": 3, 
+      "target": "364728", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET INTERNACIONAL"
+    }, 
+    {
+      "source": "362483", 
+      "source_name": "DRET I TRIBUTACI\u00d3 LOCAL", 
+      "strength": 2, 
+      "target": "362492", 
+      "target_name": "DRET ELECTORAL I PARLAMENTARI"
+    }, 
+    {
+      "source": "362452", 
+      "source_name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "strength": 6, 
+      "target": "362457", 
+      "target_name": "DRET INTERNACIONAL PRIVAT"
+    }, 
+    {
+      "source": "362446", 
+      "source_name": "PRINCIPIS I INSTITUCIONS CONSTITUCIONALS", 
+      "strength": 2, 
+      "target": "362456", 
+      "target_name": "DRET INTERNACIONAL P\u00daBLIC"
+    }, 
+    {
+      "source": "362456", 
+      "source_name": "DRET INTERNACIONAL P\u00daBLIC", 
+      "strength": 3, 
+      "target": "362464", 
+      "target_name": "FILOSOFIA DEL DRET"
+    }, 
+    {
+      "source": "362457", 
+      "source_name": "DRET INTERNACIONAL PRIVAT", 
+      "strength": 4, 
+      "target": "362466", 
+      "target_name": "DRET DE L'EMPRESA I DEL MERCAT"
+    }, 
+    {
+      "source": "362448", 
+      "source_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT", 
+      "strength": 3, 
+      "target": "362454", 
+      "target_name": "DRET D'OBLIGACIONS I CONTRACTES"
+    }, 
+    {
+      "source": "362458", 
+      "source_name": "INSTITUCIONS DE DRET COMUNITARI EUROPEU", 
+      "strength": 2, 
+      "target": "362507", 
+      "target_name": "DRETS REALS"
+    }, 
+    {
+      "source": "362455", 
+      "source_name": "DRET DE FAM\u00cdLIA I SUCCESSIONS", 
+      "strength": 4, 
+      "target": "362467", 
+      "target_name": "DRET DE SOCIETATS"
+    }, 
+    {
+      "source": "362452", 
+      "source_name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "strength": 4, 
+      "target": "362466", 
+      "target_name": "DRET DE L'EMPRESA I DEL MERCAT"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 2, 
+      "target": "362492", 
+      "target_name": "DRET ELECTORAL I PARLAMENTARI"
+    }, 
+    {
+      "source": "362455", 
+      "source_name": "DRET DE FAM\u00cdLIA I SUCCESSIONS", 
+      "strength": 2, 
+      "target": "364728", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET INTERNACIONAL"
+    }, 
+    {
+      "source": "362442", 
+      "source_name": "CI\u00c8NCIA POL\u00cdTICA", 
+      "strength": 2, 
+      "target": "362447", 
+      "target_name": "DRET CIVIL DE LA PERSONA"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 3, 
+      "target": "362481", 
+      "target_name": "DRET INTERNACIONAL ECON\u00d2MIC"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 3, 
+      "target": "362455", 
+      "target_name": "DRET DE FAM\u00cdLIA I SUCCESSIONS"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 3, 
+      "target": "362481", 
+      "target_name": "DRET INTERNACIONAL ECON\u00d2MIC"
+    }, 
+    {
+      "source": "362455", 
+      "source_name": "DRET DE FAM\u00cdLIA I SUCCESSIONS", 
+      "strength": 4, 
+      "target": "362468", 
+      "target_name": "INSTRUMENTS DE TR\u00c0FIC EMPRESARIAL"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 4, 
+      "target": "362456", 
+      "target_name": "DRET INTERNACIONAL P\u00daBLIC"
+    }, 
+    {
+      "source": "362477", 
+      "source_name": "ORGANITZACIONS INTERNACIONALS", 
+      "strength": 4, 
+      "target": "364728", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET INTERNACIONAL"
+    }, 
+    {
+      "source": "362456", 
+      "source_name": "DRET INTERNACIONAL P\u00daBLIC", 
+      "strength": 3, 
+      "target": "362458", 
+      "target_name": "INSTITUCIONS DE DRET COMUNITARI EUROPEU"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 3, 
+      "target": "362455", 
+      "target_name": "DRET DE FAM\u00cdLIA I SUCCESSIONS"
+    }, 
+    {
+      "source": "362492", 
+      "source_name": "DRET ELECTORAL I PARLAMENTARI", 
+      "strength": 2, 
+      "target": "364728", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET INTERNACIONAL"
+    }, 
+    {
+      "source": "362451", 
+      "source_name": "DRET ROM\u00c0", 
+      "strength": 3, 
+      "target": "362464", 
+      "target_name": "FILOSOFIA DEL DRET"
+    }, 
+    {
+      "source": "362456", 
+      "source_name": "DRET INTERNACIONAL P\u00daBLIC", 
+      "strength": 2, 
+      "target": "362479", 
+      "target_name": "DRET COMUNITARI DE LLIURE CIRCULACI\u00d3"
+    }, 
+    {
+      "source": "362456", 
+      "source_name": "DRET INTERNACIONAL P\u00daBLIC", 
+      "strength": 4, 
+      "target": "362468", 
+      "target_name": "INSTRUMENTS DE TR\u00c0FIC EMPRESARIAL"
+    }, 
+    {
+      "source": "362765", 
+      "source_name": "TREBALL FINAL DE GRAU", 
+      "strength": 2, 
+      "target": "362766", 
+      "target_name": "PR\u00c0CTIQUES EXTERNES"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 7, 
+      "target": "362448", 
+      "target_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT"
+    }, 
+    {
+      "source": "362455", 
+      "source_name": "DRET DE FAM\u00cdLIA I SUCCESSIONS", 
+      "strength": 2, 
+      "target": "362478", 
+      "target_name": "PROTECCI\u00d3 INTERNACIONAL DELS DRETS HUMANS"
+    }, 
+    {
+      "source": "362454", 
+      "source_name": "DRET D'OBLIGACIONS I CONTRACTES", 
+      "strength": 4, 
+      "target": "362507", 
+      "target_name": "DRETS REALS"
+    }, 
+    {
+      "source": "362469", 
+      "source_name": "DRET PROCESSAL CIVIL", 
+      "strength": 2, 
+      "target": "362500", 
+      "target_name": "ESTRAT\u00c8GIES PROCESSALS"
+    }, 
+    {
+      "source": "362477", 
+      "source_name": "ORGANITZACIONS INTERNACIONALS", 
+      "strength": 2, 
+      "target": "362492", 
+      "target_name": "DRET ELECTORAL I PARLAMENTARI"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 4, 
+      "target": "362449", 
+      "target_name": "FONAMENTS DEL DRET PENAL I TEORIA DEL DELICTE"
+    }, 
+    {
+      "source": "362458", 
+      "source_name": "INSTITUCIONS DE DRET COMUNITARI EUROPEU", 
+      "strength": 2, 
+      "target": "362481", 
+      "target_name": "DRET INTERNACIONAL ECON\u00d2MIC"
+    }, 
+    {
+      "source": "362454", 
+      "source_name": "DRET D'OBLIGACIONS I CONTRACTES", 
+      "strength": 5, 
+      "target": "362457", 
+      "target_name": "DRET INTERNACIONAL PRIVAT"
+    }, 
+    {
+      "source": "364616", 
+      "source_name": "EFECTIVITAT DE LA TUTELA JUDICIAL", 
+      "strength": 2, 
+      "target": "364730", 
+      "target_name": "ESTRAT\u00c8GIES PROCESSALS"
+    }, 
+    {
+      "source": "362448", 
+      "source_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT", 
+      "strength": 4, 
+      "target": "362457", 
+      "target_name": "DRET INTERNACIONAL PRIVAT"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 2, 
+      "target": "362466", 
+      "target_name": "DRET DE L'EMPRESA I DEL MERCAT"
+    }, 
+    {
+      "source": "362452", 
+      "source_name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "strength": 3, 
+      "target": "362492", 
+      "target_name": "DRET ELECTORAL I PARLAMENTARI"
+    }, 
+    {
+      "source": "362466", 
+      "source_name": "DRET DE L'EMPRESA I DEL MERCAT", 
+      "strength": 4, 
+      "target": "362467", 
+      "target_name": "DRET DE SOCIETATS"
+    }, 
+    {
+      "source": "362446", 
+      "source_name": "PRINCIPIS I INSTITUCIONS CONSTITUCIONALS", 
+      "strength": 3, 
+      "target": "362451", 
+      "target_name": "DRET ROM\u00c0"
+    }, 
+    {
+      "source": "362499", 
+      "source_name": "MITJANS ALTERNATIUS DE RESOLUCI\u00d3 DE CONFLICTES", 
+      "strength": 2, 
+      "target": "362501", 
+      "target_name": "JURISDICCI\u00d3 VOLUNT\u00c0RIA"
+    }, 
+    {
+      "source": "362466", 
+      "source_name": "DRET DE L'EMPRESA I DEL MERCAT", 
+      "strength": 4, 
+      "target": "362507", 
+      "target_name": "DRETS REALS"
+    }, 
+    {
+      "source": "362454", 
+      "source_name": "DRET D'OBLIGACIONS I CONTRACTES", 
+      "strength": 5, 
+      "target": "362455", 
+      "target_name": "DRET DE FAM\u00cdLIA I SUCCESSIONS"
+    }, 
+    {
+      "source": "362456", 
+      "source_name": "DRET INTERNACIONAL P\u00daBLIC", 
+      "strength": 4, 
+      "target": "362465", 
+      "target_name": "DRET DEL TREBALL I DE LA SEGURETAT SOCIAL"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 4, 
+      "target": "362449", 
+      "target_name": "FONAMENTS DEL DRET PENAL I TEORIA DEL DELICTE"
+    }, 
+    {
+      "source": "362455", 
+      "source_name": "DRET DE FAM\u00cdLIA I SUCCESSIONS", 
+      "strength": 2, 
+      "target": "362765", 
+      "target_name": "TREBALL FINAL DE GRAU"
+    }, 
+    {
+      "source": "362458", 
+      "source_name": "INSTITUCIONS DE DRET COMUNITARI EUROPEU", 
+      "strength": 2, 
+      "target": "362479", 
+      "target_name": "DRET COMUNITARI DE LLIURE CIRCULACI\u00d3"
+    }, 
+    {
+      "source": "362455", 
+      "source_name": "DRET DE FAM\u00cdLIA I SUCCESSIONS", 
+      "strength": 2, 
+      "target": "362458", 
+      "target_name": "INSTITUCIONS DE DRET COMUNITARI EUROPEU"
+    }, 
+    {
+      "source": "362458", 
+      "source_name": "INSTITUCIONS DE DRET COMUNITARI EUROPEU", 
+      "strength": 2, 
+      "target": "362478", 
+      "target_name": "PROTECCI\u00d3 INTERNACIONAL DELS DRETS HUMANS"
+    }, 
+    {
+      "source": "362455", 
+      "source_name": "DRET DE FAM\u00cdLIA I SUCCESSIONS", 
+      "strength": 4, 
+      "target": "362466", 
+      "target_name": "DRET DE L'EMPRESA I DEL MERCAT"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 2, 
+      "target": "362469", 
+      "target_name": "DRET PROCESSAL CIVIL"
+    }, 
+    {
+      "source": "362456", 
+      "source_name": "DRET INTERNACIONAL P\u00daBLIC", 
+      "strength": 2, 
+      "target": "364725", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET P\u00daBLIC"
+    }, 
+    {
+      "source": "362465", 
+      "source_name": "DRET DEL TREBALL I DE LA SEGURETAT SOCIAL", 
+      "strength": 2, 
+      "target": "362765", 
+      "target_name": "TREBALL FINAL DE GRAU"
+    }, 
+    {
+      "source": "362478", 
+      "source_name": "PROTECCI\u00d3 INTERNACIONAL DELS DRETS HUMANS", 
+      "strength": 2, 
+      "target": "362492", 
+      "target_name": "DRET ELECTORAL I PARLAMENTARI"
+    }, 
+    {
+      "source": "362458", 
+      "source_name": "INSTITUCIONS DE DRET COMUNITARI EUROPEU", 
+      "strength": 2, 
+      "target": "362468", 
+      "target_name": "INSTRUMENTS DE TR\u00c0FIC EMPRESARIAL"
+    }, 
+    {
+      "source": "362466", 
+      "source_name": "DRET DE L'EMPRESA I DEL MERCAT", 
+      "strength": 4, 
+      "target": "362469", 
+      "target_name": "DRET PROCESSAL CIVIL"
+    }, 
+    {
+      "source": "362448", 
+      "source_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT", 
+      "strength": 2, 
+      "target": "362477", 
+      "target_name": "ORGANITZACIONS INTERNACIONALS"
+    }, 
+    {
+      "source": "362448", 
+      "source_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT", 
+      "strength": 2, 
+      "target": "362506", 
+      "target_name": "SOCIOLOGIA DEL DRET"
+    }, 
+    {
+      "source": "362454", 
+      "source_name": "DRET D'OBLIGACIONS I CONTRACTES", 
+      "strength": 2, 
+      "target": "362492", 
+      "target_name": "DRET ELECTORAL I PARLAMENTARI"
+    }, 
+    {
+      "source": "362457", 
+      "source_name": "DRET INTERNACIONAL PRIVAT", 
+      "strength": 2, 
+      "target": "362498", 
+      "target_name": "DRET DEL MEDI AMBIENT"
+    }, 
+    {
+      "source": "362447", 
+      "source_name": "DRET CIVIL DE LA PERSONA", 
+      "strength": 3, 
+      "target": "362765", 
+      "target_name": "TREBALL FINAL DE GRAU"
+    }, 
+    {
+      "source": "362455", 
+      "source_name": "DRET DE FAM\u00cdLIA I SUCCESSIONS", 
+      "strength": 3, 
+      "target": "362464", 
+      "target_name": "FILOSOFIA DEL DRET"
+    }, 
+    {
+      "source": "362448", 
+      "source_name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT", 
+      "strength": 2, 
+      "target": "362469", 
+      "target_name": "DRET PROCESSAL CIVIL"
+    }, 
+    {
+      "source": "362453", 
+      "source_name": "PENES I DELICTES", 
+      "strength": 3, 
+      "target": "362456", 
+      "target_name": "DRET INTERNACIONAL P\u00daBLIC"
+    }, 
+    {
+      "source": "362444", 
+      "source_name": "FONAMENTS DEL DRET", 
+      "strength": 3, 
+      "target": "362464", 
+      "target_name": "FILOSOFIA DEL DRET"
+    }, 
+    {
+      "source": "362441", 
+      "source_name": "T\u00c8CNIQUES DE TREBALL I COMUNICACI\u00d3", 
+      "strength": 3, 
+      "target": "362765", 
+      "target_name": "TREBALL FINAL DE GRAU"
+    }, 
+    {
+      "source": "362452", 
+      "source_name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "strength": 2, 
+      "target": "362498", 
+      "target_name": "DRET DEL MEDI AMBIENT"
+    }, 
+    {
+      "source": "362458", 
+      "source_name": "INSTITUCIONS DE DRET COMUNITARI EUROPEU", 
+      "strength": 2, 
+      "target": "362467", 
+      "target_name": "DRET DE SOCIETATS"
+    }, 
+    {
+      "source": "362479", 
+      "source_name": "DRET COMUNITARI DE LLIURE CIRCULACI\u00d3", 
+      "strength": 2, 
+      "target": "364728", 
+      "target_name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET INTERNACIONAL"
+    }, 
+    {
+      "source": "362464", 
+      "source_name": "FILOSOFIA DEL DRET", 
+      "strength": 2, 
+      "target": "362469", 
+      "target_name": "DRET PROCESSAL CIVIL"
+    }, 
+    {
+      "source": "362454", 
+      "source_name": "DRET D'OBLIGACIONS I CONTRACTES", 
+      "strength": 2, 
+      "target": "362458", 
+      "target_name": "INSTITUCIONS DE DRET COMUNITARI EUROPEU"
+    }
+  ], 
+  "nodes": [
+    {
+      "extra_list": [
+        " ", 
+        "Comprendre el context hum\u00e0, econ\u00f2mic, social i pol\u00edtic del dret i saber valorar els efectes de les normes i altres decisions jur\u00eddiques en aquests \u00e0mbits.", 
+        "Sostenibilitat (capacitat de valorar l'impacte social i mediambiental d'actuacions en el seu \u00e0mbit / capacitat de manifestar visions integrades i sist\u00e8miques)."
+      ], 
+      "id": "362443", 
+      "name": "ECONOMIA", 
+      "type": "FB"
+    }, 
+    {
+      "extra_list": [
+        "Capacitat d'interpretar les normes jur\u00eddiques segons les regles pr\u00f2pies de cada \u00e0mbit del dret i d'aplicar-les als conflictes socials corresponents.", 
+        "Con\u00e8ixer i actuar des del respecte als drets fonamentals, amb especial atenci\u00f3 a la igualtat entre homes i dones, a la diversitat funcional i a la cultura de la pau d'acord amb els valors democr\u00e0tics.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "Identificar la dimensi\u00f3 jur\u00eddica de les relacions humanes i socials i valorar-ne les implicacions en els diferents \u00e0mbits de l'ordenaci\u00f3.", 
+        "Utilitzar adequadament les fonts de coneixement en l'\u00e0mbit jur\u00eddic: legals, doctrinals i jurisprudencials."
+      ], 
+      "id": "362454", 
+      "name": "DRET D'OBLIGACIONS I CONTRACTES", 
+      "type": "OB"
+    }, 
+    {
+      "extra_list": [
+        "Comprendre la posici\u00f3 jur\u00eddica de les persones en les seves relacions amb l'Administraci\u00f3 i en general amb els poders p\u00fablics.", 
+        "Con\u00e8ixer i actuar des del respecte als drets fonamentals, amb especial atenci\u00f3 a la igualtat entre homes i dones, a la diversitat funcional i a la cultura de la pau d'acord amb els valors democr\u00e0tics."
+      ], 
+      "id": "362493", 
+      "name": "DRETS FONAMENTALS I GARANTIES", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "362476", 
+      "name": "DRET DE LA COMPET\u00c8NCIA", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Comprendre la posici\u00f3 jur\u00eddica de les persones en les seves relacions amb l'Administraci\u00f3 i en general amb els poders p\u00fablics.", 
+        "Con\u00e8ixer i actuar des del respecte als drets fonamentals, amb especial atenci\u00f3 a la igualtat entre homes i dones, a la diversitat funcional i a la cultura de la pau d'acord amb els valors democr\u00e0tics.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "362492", 
+      "name": "DRET ELECTORAL I PARLAMENTARI", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [], 
+      "id": "362462", 
+      "name": "CONTRACTACI\u00d3 I ACTIVITAT DE L'ADMINISTRACI\u00d3", 
+      "type": "OB"
+    }, 
+    {
+      "extra_list": [
+        "Comprendre la posici\u00f3 jur\u00eddica de les persones en les seves relacions amb l'Administraci\u00f3 i en general amb els poders p\u00fablics.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "362483", 
+      "name": "DRET I TRIBUTACI\u00d3 LOCAL", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Capacitat d'interpretar les normes jur\u00eddiques segons les regles pr\u00f2pies de cada \u00e0mbit del dret i d'aplicar-les als conflictes socials corresponents.", 
+        "Con\u00e8ixer i actuar des del respecte als drets fonamentals, amb especial atenci\u00f3 a la igualtat entre homes i dones, a la diversitat funcional i a la cultura de la pau d'acord amb els valors democr\u00e0tics.", 
+        "Con\u00e8ixer i comprendre la pluralitat jur\u00eddica al m\u00f3n, l'evoluci\u00f3 de la societat internacional i de les seves institucions, la seva incid\u00e8ncia en l'elaboraci\u00f3 de normes jur\u00eddiques internacionals i transnacionals, i tamb\u00e9 interpretar els mecanismes de recepci\u00f3 d'aquestes normes en l'ordenaci\u00f3 jur\u00eddica espanyola.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "Entendre l'estructura de l'ordenaci\u00f3 jur\u00eddica i con\u00e8ixer i saber aplicar els criteris de prelaci\u00f3 de les fonts per determinar les normes aplicables en cada cas.", 
+        "Identificar la dimensi\u00f3 jur\u00eddica de les relacions humanes i socials i valorar-ne les implicacions en els diferents \u00e0mbits de l'ordenaci\u00f3.", 
+        "Sostenibilitat (capacitat de valorar l'impacte social i mediambiental d'actuacions en el seu \u00e0mbit / capacitat de manifestar visions integrades i sist\u00e8miques).", 
+        "Utilitzar adequadament les fonts de coneixement en l'\u00e0mbit jur\u00eddic: legals, doctrinals i jurisprudencials."
+      ], 
+      "id": "362457", 
+      "name": "DRET INTERNACIONAL PRIVAT", 
+      "type": "OB"
+    }, 
+    {
+      "extra_list": [], 
+      "id": "362463", 
+      "name": "B\u00c9NS P\u00daBLICS I URBANISME", 
+      "type": "OB"
+    }, 
+    {
+      "extra_list": [
+        "Capacitat d'interpretar les normes jur\u00eddiques segons les regles pr\u00f2pies de cada \u00e0mbit del dret i d'aplicar-les als conflictes socials corresponents.", 
+        "Con\u00e8ixer i actuar des del respecte als drets fonamentals, amb especial atenci\u00f3 a la igualtat entre homes i dones, a la diversitat funcional i a la cultura de la pau d'acord amb els valors democr\u00e0tics.", 
+        "Con\u00e8ixer i comprendre la pluralitat jur\u00eddica al m\u00f3n, l'evoluci\u00f3 de la societat internacional i de les seves institucions, la seva incid\u00e8ncia en l'elaboraci\u00f3 de normes jur\u00eddiques internacionals i transnacionals, i tamb\u00e9 interpretar els mecanismes de recepci\u00f3 d'aquestes normes en l'ordenaci\u00f3 jur\u00eddica espanyola.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "Entendre l'estructura de l'ordenaci\u00f3 jur\u00eddica i con\u00e8ixer i saber aplicar els criteris de prelaci\u00f3 de les fonts per determinar les normes aplicables en cada cas.", 
+        "Identificar la dimensi\u00f3 jur\u00eddica de les relacions humanes i socials i valorar-ne les implicacions en els diferents \u00e0mbits de l'ordenaci\u00f3.", 
+        "Sostenibilitat (capacitat de valorar l'impacte social i mediambiental d'actuacions en el seu \u00e0mbit / capacitat de manifestar visions integrades i sist\u00e8miques).", 
+        "Utilitzar adequadament les fonts de coneixement en l'\u00e0mbit jur\u00eddic: legals, doctrinals i jurisprudencials."
+      ], 
+      "id": "362456", 
+      "name": "DRET INTERNACIONAL P\u00daBLIC", 
+      "type": "OB"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer i comprendre la pluralitat jur\u00eddica al m\u00f3n, l'evoluci\u00f3 de la societat internacional i de les seves institucions, la seva incid\u00e8ncia en l'elaboraci\u00f3 de normes jur\u00eddiques internacionals i transnacionals, i tamb\u00e9 interpretar els mecanismes de recepci\u00f3 d'aquestes normes en l'ordenaci\u00f3 jur\u00eddica espanyola."
+      ], 
+      "id": "362480", 
+      "name": "DRET PRIVAT COMPARAT", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "362474", 
+      "name": "DRET DE LA NAVEGACI\u00d3", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Comprendre el sistema institucional i la forma complexa de producci\u00f3 del dret en l'actualitat en els diferents nivells local, auton\u00f2mic, estatal, europeu i internacional.", 
+        "Con\u00e8ixer i comprendre la pluralitat jur\u00eddica al m\u00f3n, l'evoluci\u00f3 de la societat internacional i de les seves institucions, la seva incid\u00e8ncia en l'elaboraci\u00f3 de normes jur\u00eddiques internacionals i transnacionals, i tamb\u00e9 interpretar els mecanismes de recepci\u00f3 d'aquestes normes en l'ordenaci\u00f3 jur\u00eddica espanyola.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "Utilitzar adequadament les fonts de coneixement en l'\u00e0mbit jur\u00eddic: legals, doctrinals i jurisprudencials."
+      ], 
+      "id": "362458", 
+      "name": "INSTITUCIONS DE DRET COMUNITARI EUROPEU", 
+      "type": "OB"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "362489", 
+      "name": "DRET PATRIMONIAL DELS CONSUMIDORS", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Capacitat d'interpretar les normes jur\u00eddiques segons les regles pr\u00f2pies de cada \u00e0mbit del dret i d'aplicar-les als conflictes socials corresponents.", 
+        "Con\u00e8ixer i actuar des del respecte als drets fonamentals, amb especial atenci\u00f3 a la igualtat entre homes i dones, a la diversitat funcional i a la cultura de la pau d'acord amb els valors democr\u00e0tics.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "Identificar la dimensi\u00f3 jur\u00eddica de les relacions humanes i socials i valorar-ne les implicacions en els diferents \u00e0mbits de l'ordenaci\u00f3.", 
+        "Utilitzar adequadament les fonts de coneixement en l'\u00e0mbit jur\u00eddic: legals, doctrinals i jurisprudencials."
+      ], 
+      "id": "362455", 
+      "name": "DRET DE FAM\u00cdLIA I SUCCESSIONS", 
+      "type": "OB"
+    }, 
+    {
+      "extra_list": [], 
+      "id": "364729", 
+      "name": "HIST\u00d2RIA DEL DRET CATAL\u00c0 I TRADICI\u00d3 JUR\u00cdDICA ROMAN\u00cdSTICA", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [], 
+      "id": "362461", 
+      "name": "FONAMENTS DEL DRET ADMINISTRATIU", 
+      "type": "OB"
+    }, 
+    {
+      "extra_list": [
+        "Capacitat d'aprenentatge significatiu, responsabilitat respecte dels coneixements adquirits i formaci\u00f3 cont\u00ednua.", 
+        "Comprendre el context hum\u00e0, econ\u00f2mic, social i pol\u00edtic del dret i saber valorar els efectes de les normes i altres decisions jur\u00eddiques en aquests \u00e0mbits.", 
+        "Comprendre el sistema institucional i la forma complexa de producci\u00f3 del dret en l'actualitat en els diferents nivells local, auton\u00f2mic, estatal, europeu i internacional.", 
+        "Comprendre i reflexionar cr\u00edticament sobre els valors impl\u00edcits en el dret, especialment el de just\u00edcia i la seva realitzaci\u00f3.", 
+        "Con\u00e8ixer i actuar des del respecte als drets fonamentals, amb especial atenci\u00f3 a la igualtat entre homes i dones, a la diversitat funcional i a la cultura de la pau d'acord amb els valors democr\u00e0tics.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "Entendre el car\u00e0cter hist\u00f2ric del dret i con\u00e8ixer l'origen i l'evoluci\u00f3 de les ordenacions jur\u00eddiques.", 
+        "Entendre l'estructura de l'ordenaci\u00f3 jur\u00eddica i con\u00e8ixer i saber aplicar els criteris de prelaci\u00f3 de les fonts per determinar les normes aplicables en cada cas.", 
+        "Fer servir amb destresa i precisi\u00f3 el llenguatge jur\u00eddic i la terminologia pr\u00f2pia de les diferents branques del dret en les lleng\u00fces catalana i castellana i ser capa\u00e7 de manejar documents i comunicar-se efica\u00e7ment en angl\u00e8s.", 
+        "Identificar la dimensi\u00f3 jur\u00eddica de les relacions humanes i socials i valorar-ne les implicacions en els diferents \u00e0mbits de l'ordenaci\u00f3."
+      ], 
+      "id": "362444", 
+      "name": "FONAMENTS DEL DRET", 
+      "type": "FB"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer i comprendre la pluralitat jur\u00eddica al m\u00f3n, l'evoluci\u00f3 de la societat internacional i de les seves institucions, la seva incid\u00e8ncia en l'elaboraci\u00f3 de normes jur\u00eddiques internacionals i transnacionals, i tamb\u00e9 interpretar els mecanismes de recepci\u00f3 d'aquestes normes en l'ordenaci\u00f3 jur\u00eddica espanyola.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "362479", 
+      "name": "DRET COMUNITARI DE LLIURE CIRCULACI\u00d3", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Capacitat d'aprenentatge significatiu, responsabilitat respecte dels coneixements adquirits i formaci\u00f3 cont\u00ednua.", 
+        "Comprendre el context hum\u00e0, econ\u00f2mic, social i pol\u00edtic del dret i saber valorar els efectes de les normes i altres decisions jur\u00eddiques en aquests \u00e0mbits.", 
+        "Comprendre el sistema institucional i la forma complexa de producci\u00f3 del dret en l'actualitat en els diferents nivells local, auton\u00f2mic, estatal, europeu i internacional.", 
+        "Comprendre i reflexionar cr\u00edticament sobre els valors impl\u00edcits en el dret, especialment el de just\u00edcia i la seva realitzaci\u00f3.", 
+        "Con\u00e8ixer i actuar des del respecte als drets fonamentals, amb especial atenci\u00f3 a la igualtat entre homes i dones, a la diversitat funcional i a la cultura de la pau d'acord amb els valors democr\u00e0tics.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "Entendre el car\u00e0cter hist\u00f2ric del dret i con\u00e8ixer l'origen i l'evoluci\u00f3 de les ordenacions jur\u00eddiques.", 
+        "Entendre l'estructura de l'ordenaci\u00f3 jur\u00eddica i con\u00e8ixer i saber aplicar els criteris de prelaci\u00f3 de les fonts per determinar les normes aplicables en cada cas.", 
+        "Fer servir amb destresa i precisi\u00f3 el llenguatge jur\u00eddic i la terminologia pr\u00f2pia de les diferents branques del dret en les lleng\u00fces catalana i castellana i ser capa\u00e7 de manejar documents i comunicar-se efica\u00e7ment en angl\u00e8s.", 
+        "Identificar la dimensi\u00f3 jur\u00eddica de les relacions humanes i socials i valorar-ne les implicacions en els diferents \u00e0mbits de l'ordenaci\u00f3."
+      ], 
+      "id": "362447", 
+      "name": "DRET CIVIL DE LA PERSONA", 
+      "type": "FB"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "364732", 
+      "name": "DRET CONTRACTUAL EUROPEU I DE CONSUM", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "Entendre els fen\u00f2mens jur\u00eddics nous que planteja l'evoluci\u00f3 de la societat i dissenyar i conduir la investigaci\u00f3 necess\u00e0ria per afrontar la problem\u00e0tica conseg\u00fcent."
+      ], 
+      "id": "362505", 
+      "name": "BIO\u00c8TICA I DRET", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        " (\u2014 Capacitat per llegir i comprendre textos jur\u00eddics de naturalesa diversa, analitzar-los i identificar-ne el que n\u2019\u00e9s rellevant.)", 
+        "Comprendre el context hum\u00e0, econ\u00f2mic, social i pol\u00edtic del dret i saber valorar els efectes de les normes i altres decisions jur\u00eddiques en aquests \u00e0mbits.", 
+        "Entendre el car\u00e0cter hist\u00f2ric del dret i con\u00e8ixer l'origen i l'evoluci\u00f3 de les ordenacions jur\u00eddiques.", 
+        "Entendre l'estructura de l'ordenaci\u00f3 jur\u00eddica i con\u00e8ixer i saber aplicar els criteris de prelaci\u00f3 de les fonts per determinar les normes aplicables en cada cas."
+      ], 
+      "id": "362450", 
+      "name": "HIST\u00d2RIA DEL DRET", 
+      "type": "FB"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer i comprendre els mecanismes i els procediments de resoluci\u00f3 dels conflictes jur\u00eddics.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "364616", 
+      "name": "EFECTIVITAT DE LA TUTELA JUDICIAL", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "Sostenibilitat (capacitat de valorar l'impacte social i mediambiental d'actuacions en el seu \u00e0mbit / capacitat de manifestar visions integrades i sist\u00e8miques)."
+      ], 
+      "id": "362498", 
+      "name": "DRET DEL MEDI AMBIENT", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer i comprendre els mecanismes i els procediments de resoluci\u00f3 dels conflictes jur\u00eddics.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "362501", 
+      "name": "JURISDICCI\u00d3 VOLUNT\u00c0RIA", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Capacitat d'interpretar les normes jur\u00eddiques segons les regles pr\u00f2pies de cada \u00e0mbit del dret i d'aplicar-les als conflictes socials corresponents.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "Identificar la dimensi\u00f3 jur\u00eddica de les relacions humanes i socials i valorar-ne les implicacions en els diferents \u00e0mbits de l'ordenaci\u00f3.", 
+        "Utilitzar adequadament les fonts de coneixement en l'\u00e0mbit jur\u00eddic: legals, doctrinals i jurisprudencials."
+      ], 
+      "id": "362468", 
+      "name": "INSTRUMENTS DE TR\u00c0FIC EMPRESARIAL", 
+      "type": "OB"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "362490", 
+      "name": "DRET DE LA PROPIETAT INTEL\u00b7LECTUAL", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer i actuar des del respecte als drets fonamentals, amb especial atenci\u00f3 a la igualtat entre homes i dones, a la diversitat funcional i a la cultura de la pau d'acord amb els valors democr\u00e0tics.", 
+        "Con\u00e8ixer i comprendre la pluralitat jur\u00eddica al m\u00f3n, l'evoluci\u00f3 de la societat internacional i de les seves institucions, la seva incid\u00e8ncia en l'elaboraci\u00f3 de normes jur\u00eddiques internacionals i transnacionals, i tamb\u00e9 interpretar els mecanismes de recepci\u00f3 d'aquestes normes en l'ordenaci\u00f3 jur\u00eddica espanyola.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "Fer servir amb destresa i precisi\u00f3 el llenguatge jur\u00eddic i la terminologia pr\u00f2pia de les diferents branques del dret en les lleng\u00fces catalana i castellana i ser capa\u00e7 de manejar documents i comunicar-se efica\u00e7ment en angl\u00e8s."
+      ], 
+      "id": "364728", 
+      "name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET INTERNACIONAL", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer i comprendre els mecanismes i els procediments de resoluci\u00f3 dels conflictes jur\u00eddics.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "\u2014", 
+        "\u2014 ", 
+        "\u2014 Capacitat de treballar en equip", 
+        "\u2014 Iniciativa i capacitat de presa de decisions"
+      ], 
+      "id": "364730", 
+      "name": "ESTRAT\u00c8GIES PROCESSALS", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Capacitat d'interpretar les normes jur\u00eddiques segons les regles pr\u00f2pies de cada \u00e0mbit del dret i d'aplicar-les als conflictes socials corresponents.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "Identificar la dimensi\u00f3 jur\u00eddica de les relacions humanes i socials i valorar-ne les implicacions en els diferents \u00e0mbits de l'ordenaci\u00f3.", 
+        "Utilitzar adequadament les fonts de coneixement en l'\u00e0mbit jur\u00eddic: legals, doctrinals i jurisprudencials."
+      ], 
+      "id": "362466", 
+      "name": "DRET DE L'EMPRESA I DEL MERCAT", 
+      "type": "OB"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "362504", 
+      "name": "DRET PENAL ECON\u00d2MIC", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [], 
+      "id": "362460", 
+      "name": "PROCEDIMENTS I SISTEMA TRIBUTARI", 
+      "type": "OB"
+    }, 
+    {
+      "extra_list": [
+        "Capacitat d'interpretar les normes jur\u00eddiques segons les regles pr\u00f2pies de cada \u00e0mbit del dret i d'aplicar-les als conflictes socials corresponents.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "Utilitzar adequadament les fonts de coneixement en l'\u00e0mbit jur\u00eddic: legals, doctrinals i jurisprudencials."
+      ], 
+      "id": "362453", 
+      "name": "PENES I DELICTES", 
+      "type": "OB"
+    }, 
+    {
+      "extra_list": [
+        "Capacitat d'aprenentatge significatiu, responsabilitat respecte dels coneixements adquirits i formaci\u00f3 cont\u00ednua.", 
+        "Comprendre el context hum\u00e0, econ\u00f2mic, social i pol\u00edtic del dret i saber valorar els efectes de les normes i altres decisions jur\u00eddiques en aquests \u00e0mbits.", 
+        "Comprendre i reflexionar cr\u00edticament sobre els valors impl\u00edcits en el dret, especialment el de just\u00edcia i la seva realitzaci\u00f3.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "362449", 
+      "name": "FONAMENTS DEL DRET PENAL I TEORIA DEL DELICTE", 
+      "type": "FB"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "362473", 
+      "name": "DRET DELS MERCATS FINANCERS", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer i actuar des del respecte als drets fonamentals, amb especial atenci\u00f3 a la igualtat entre homes i dones, a la diversitat funcional i a la cultura de la pau d'acord amb els valors democr\u00e0tics.", 
+        "Con\u00e8ixer i comprendre la pluralitat jur\u00eddica al m\u00f3n, l'evoluci\u00f3 de la societat internacional i de les seves institucions, la seva incid\u00e8ncia en l'elaboraci\u00f3 de normes jur\u00eddiques internacionals i transnacionals, i tamb\u00e9 interpretar els mecanismes de recepci\u00f3 d'aquestes normes en l'ordenaci\u00f3 jur\u00eddica espanyola.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "Fer servir amb destresa i precisi\u00f3 el llenguatge jur\u00eddic i la terminologia pr\u00f2pia de les diferents branques del dret en les lleng\u00fces catalana i castellana i ser capa\u00e7 de manejar documents i comunicar-se efica\u00e7ment en angl\u00e8s."
+      ], 
+      "id": "362478", 
+      "name": "PROTECCI\u00d3 INTERNACIONAL DELS DRETS HUMANS", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Capacitat d'interpretar les normes jur\u00eddiques segons les regles pr\u00f2pies de cada \u00e0mbit del dret i d'aplicar-les als conflictes socials corresponents.", 
+        "Comprendre la posici\u00f3 jur\u00eddica de les persones en les seves relacions amb l'Administraci\u00f3 i en general amb els poders p\u00fablics.", 
+        "Con\u00e8ixer i actuar des del respecte als drets fonamentals, amb especial atenci\u00f3 a la igualtat entre homes i dones, a la diversitat funcional i a la cultura de la pau d'acord amb els valors democr\u00e0tics.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "Identificar la dimensi\u00f3 jur\u00eddica de les relacions humanes i socials i valorar-ne les implicacions en els diferents \u00e0mbits de l'ordenaci\u00f3.", 
+        "Sostenibilitat (capacitat de valorar l'impacte social i mediambiental d'actuacions en el seu \u00e0mbit / capacitat de manifestar visions integrades i sist\u00e8miques).", 
+        "Utilitzar adequadament les fonts de coneixement en l'\u00e0mbit jur\u00eddic: legals, doctrinals i jurisprudencials."
+      ], 
+      "id": "362452", 
+      "name": "SISTEMA DE DRETS I LLIBERTATS", 
+      "type": "OB"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "362487", 
+      "name": "DRET INTERREGIONAL", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "Entendre el car\u00e0cter hist\u00f2ric del dret i con\u00e8ixer l'origen i l'evoluci\u00f3 de les ordenacions jur\u00eddiques."
+      ], 
+      "id": "362495", 
+      "name": "DRET CAN\u00d2NIC", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        " (Comprendre les relacions jur\u00eddiques entre els empleats p\u00fablics i les AAPP i, en general amb els poders p\u00fablics.)", 
+        " (Comprendre les relacions jur\u00eddiques entre els empleats p\u00fablics i les administracions p\u00fabliques i, en general amb els poders p\u00fablics.)", 
+        "Comprendre la posici\u00f3 jur\u00eddica de les persones en les seves relacions amb l'Administraci\u00f3 i en general amb els poders p\u00fablics.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "362484", 
+      "name": "DRET DE LA FUNCI\u00d3 P\u00daBLICA", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [], 
+      "id": "362494", 
+      "name": "HISTORIA DEL DRET CATAL\u00c0", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Capacitat d'interpretar les normes jur\u00eddiques segons les regles pr\u00f2pies de cada \u00e0mbit del dret i d'aplicar-les als conflictes socials corresponents.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "Identificar la dimensi\u00f3 jur\u00eddica de les relacions humanes i socials i valorar-ne les implicacions en els diferents \u00e0mbits de l'ordenaci\u00f3.", 
+        "Utilitzar adequadament les fonts de coneixement en l'\u00e0mbit jur\u00eddic: legals, doctrinals i jurisprudencials."
+      ], 
+      "id": "362467", 
+      "name": "DRET DE SOCIETATS", 
+      "type": "OB"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "362503", 
+      "name": "DRET DE MENORS", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer i actuar des del respecte als drets fonamentals, amb especial atenci\u00f3 a la igualtat entre homes i dones, a la diversitat funcional i a la cultura de la pau d'acord amb els valors democr\u00e0tics.", 
+        "Con\u00e8ixer i comprendre la pluralitat jur\u00eddica al m\u00f3n, l'evoluci\u00f3 de la societat internacional i de les seves institucions, la seva incid\u00e8ncia en l'elaboraci\u00f3 de normes jur\u00eddiques internacionals i transnacionals, i tamb\u00e9 interpretar els mecanismes de recepci\u00f3 d'aquestes normes en l'ordenaci\u00f3 jur\u00eddica espanyola.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "Fer servir amb destresa i precisi\u00f3 el llenguatge jur\u00eddic i la terminologia pr\u00f2pia de les diferents branques del dret en les lleng\u00fces catalana i castellana i ser capa\u00e7 de manejar documents i comunicar-se efica\u00e7ment en angl\u00e8s."
+      ], 
+      "id": "362481", 
+      "name": "DRET INTERNACIONAL ECON\u00d2MIC", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Comprendre el context hum\u00e0, econ\u00f2mic, social i pol\u00edtic del dret i saber valorar els efectes de les normes i altres decisions jur\u00eddiques en aquests \u00e0mbits.", 
+        "Con\u00e8ixer i actuar des del respecte als drets fonamentals, amb especial atenci\u00f3 a la igualtat entre homes i dones, a la diversitat funcional i a la cultura de la pau d'acord amb els valors democr\u00e0tics.", 
+        "Treball en equip (capacitat de col\u00b7laborar amb els altres i de contribuir a un projecte com\u00fa / capacitat de col\u00b7laborar en equips interdisciplinaris i en equips multiculturals)."
+      ], 
+      "id": "362442", 
+      "name": "CI\u00c8NCIA POL\u00cdTICA", 
+      "type": "FB"
+    }, 
+    {
+      "extra_list": [
+        "Capacitat creativa i emprenedora (capacitat de formular, dissenyar i gestionar projectes / capacitat de cercar i integrar nous coneixements i actituds).", 
+        "Capacitat d'aprenentatge significatiu, responsabilitat respecte dels coneixements adquirits i formaci\u00f3 cont\u00ednua.", 
+        "Capacitat d'interpretar les normes jur\u00eddiques segons les regles pr\u00f2pies de cada \u00e0mbit del dret i d'aplicar-les als conflictes socials corresponents.", 
+        "Capacitat de comunicar oralment i per escrit idees i raonaments jur\u00eddics a una gamma \u00e0mplia i diversa de receptors, utilitzant els registres adequats per a cada context.", 
+        "Capacitat de plantejar diverses alternatives davant d'un problema jur\u00eddic, de jerarquitzar-les i de prendre decisions per arribar a la soluci\u00f3 m\u00e9s adequada.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "Fer servir amb destresa i precisi\u00f3 el llenguatge jur\u00eddic i la terminologia pr\u00f2pia de les diferents branques del dret en les lleng\u00fces catalana i castellana i ser capa\u00e7 de manejar documents i comunicar-se efica\u00e7ment en angl\u00e8s."
+      ], 
+      "id": "362765", 
+      "name": "TREBALL FINAL DE GRAU", 
+      "type": "TR"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "364726", 
+      "name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET PRIVAT", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Capacitat d'aprenentatge significatiu, responsabilitat respecte dels coneixements adquirits i formaci\u00f3 cont\u00ednua.", 
+        "Comprendre el context hum\u00e0, econ\u00f2mic, social i pol\u00edtic del dret i saber valorar els efectes de les normes i altres decisions jur\u00eddiques en aquests \u00e0mbits.", 
+        "Comprendre i reflexionar cr\u00edticament sobre els valors impl\u00edcits en el dret, especialment el de just\u00edcia i la seva realitzaci\u00f3.", 
+        "Con\u00e8ixer i actuar des del respecte als drets fonamentals, amb especial atenci\u00f3 a la igualtat entre homes i dones, a la diversitat funcional i a la cultura de la pau d'acord amb els valors democr\u00e0tics.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "Entendre el car\u00e0cter hist\u00f2ric del dret i con\u00e8ixer l'origen i l'evoluci\u00f3 de les ordenacions jur\u00eddiques.", 
+        "Entendre l'estructura de l'ordenaci\u00f3 jur\u00eddica i con\u00e8ixer i saber aplicar els criteris de prelaci\u00f3 de les fonts per determinar les normes aplicables en cada cas.", 
+        "Fer servir amb destresa i precisi\u00f3 el llenguatge jur\u00eddic i la terminologia pr\u00f2pia de les diferents branques del dret en les lleng\u00fces catalana i castellana i ser capa\u00e7 de manejar documents i comunicar-se efica\u00e7ment en angl\u00e8s.", 
+        "Identificar la dimensi\u00f3 jur\u00eddica de les relacions humanes i socials i valorar-ne les implicacions en els diferents \u00e0mbits de l'ordenaci\u00f3."
+      ], 
+      "id": "362451", 
+      "name": "DRET ROM\u00c0", 
+      "type": "FB"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "362485", 
+      "name": "DRET DE DANYS", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "364727", 
+      "name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET DE L'EMPRESA", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [], 
+      "id": "362491", 
+      "name": "DRET CONSTITUCIONAL COMPARAT I EUROPEU", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer i comprendre els mecanismes i els procediments de resoluci\u00f3 dels conflictes jur\u00eddics.", 
+        "Utilitzar adequadament les fonts de coneixement en l'\u00e0mbit jur\u00eddic: legals, doctrinals i jurisprudencials."
+      ], 
+      "id": "362470", 
+      "name": "DRET PROCESSAL PENAL", 
+      "type": "OB"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "362471", 
+      "name": "DRET DE LA SEGURETAT SOCIAL", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        " (El Dret Processal analitza els mecanismes legalment establerts perqu\u00e8 un tercer imparcial dicti la soluci\u00f3 al cas concret de manera irrevocable. Amb l\u2019estudi d\u2019aquesta assignatura es pret\u00e9n que l\u2019alumne tingui coneixement del desenvolupament d\u2019un proc\u00e9s civil, des de les activitats pr\u00e8vies que es poden realitzar abans de l\u2019inici del proc\u00e9s fins al moment de satisfacci\u00f3 de la pretensi\u00f3 a trav\u00e9s del proc\u00e9s d\u2019execuci\u00f3. La finalitat de l\u2019assignatura \u00e9s que l\u2019estudiant tingui un absolut coneixement dels mecanismes processals per resoldre una q\u00fcesti\u00f3 concreta. D\u2019aquesta manera, des del punt de vista de la part, podr\u00e0 valorar els avantatges i els inconvenients de cada una de les opcions i aix\u00f2 li permetr\u00e0 adoptar la decisi\u00f3 en el cas concret m\u00e9s indicada per als interessos dels justiciables. Des de la posici\u00f3 de l\u2019\u00f2rgan jurisdiccional, la finalitat \u00e9s que tingui els coneixements necessaris per aplicar les normes processals en un cas concret i resoldre'l de manera adequada en els diferents sup\u00f2sits que se li puguin plantejar. Tot aix\u00f2 tenint en compte els drets de les parts.)", 
+        " (El Dret Processal analitza els mecanismes legalment establerts perqu\u00e8 un tercer imparcial dicti la soluci\u00f3 al cas concret de manera irrevocable. Amb l\u2019estudi d\u2019aquesta assignatura es pret\u00e9n que l\u2019alumne tingui coneixement del desenvolupament d\u2019un proc\u00e9s civil, des de les activitats pr\u00e8vies que es poden realitzar abans de l\u2019inici del proc\u00e9s fins al moment de satisfacci\u00f3 de la pretensi\u00f3 a trav\u00e9s del proc\u00e9s d\u2019execuci\u00f3. La finalitat de l\u2019assignatura \u00e9s que l\u2019estudiant tingui un absolut coneixement dels mecanismes processals per resoldre una q\u00fcesti\u00f3 concreta. D\u2019aquesta manera, des del punt de vista de la part, podr\u00e0 valorar els avantatges i els inconvenients de cada una de les opcions i aix\u00f2 li permetr\u00e0 adoptar la decisi\u00f3 en el cas concret m\u00e9s indicada per als interessos dels justiciables. Des de la posici\u00f3 de l\u2019\u00f2rgan jurisdiccional, la finalitat \u00e9s que tingui els coneixements necessaris per aplicar les normes processals en un cas concret i resoldre\u2019l de manera adequada en els diferents sup\u00f2sits que se li puguin plantejar. Tot aix\u00f2 tenint en compte els drets de les parts.)", 
+        " (El dret processal analitza els mecanismes legalment establerts perqu\u00e8 un tercer imparcial dicti la soluci\u00f3 al cas concret de manera irrevocable. Amb l\u2019estudi d\u2019aquesta assignatura es pret\u00e9n que l\u2019alumne tingui coneixement del desenvolupament d\u2019un proc\u00e9s civil, des de les activitats pr\u00e8vies que es poden fer abans de l\u2019inici del proc\u00e9s fins al moment de satisfacci\u00f3 de la pretensi\u00f3 a trav\u00e9s del proc\u00e9s d\u2019execuci\u00f3. La finalitat de l\u2019assignatura \u00e9s que l\u2019estudiant tingui un absolut coneixement dels mecanismes processals per resoldre una q\u00fcesti\u00f3 concreta. D\u2019aquesta manera, des del punt de vista de la part, pot valorar els avantatges i els inconvenients de cada una de les opcions i aix\u00f2 li ha de permetre adoptar la decisi\u00f3 en el cas concret m\u00e9s indicada per als interessos dels justiciables. Des de la posici\u00f3 de l\u2019\u00f2rgan jurisdiccional, la finalitat \u00e9s que tingui els coneixements necessaris per aplicar les normes processals en un cas concret i resoldre\u2019l de manera adequada en els diferents sup\u00f2sits que se li puguin plantejar. Tot aix\u00f2 tenint en compte els drets de les parts.)", 
+        "Capacitat d'interpretar les normes jur\u00eddiques segons les regles pr\u00f2pies de cada \u00e0mbit del dret i d'aplicar-les als conflictes socials corresponents.", 
+        "Con\u00e8ixer i comprendre els mecanismes i els procediments de resoluci\u00f3 dels conflictes jur\u00eddics.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "El Dret Processal analitza els mecanismes legalment establerts perqu\u00e8 un tercer imparcial dicti la soluci\u00f3 al cas concret de manera irrevocable. Amb l\u2019estudi d\u2019aquesta assignatura es pret\u00e9n que l\u2019alumne tingui coneixement del desenvolupament d\u2019un proc\u00e9s civil, des de les activitats pr\u00e8vies que es poden realitzar abans de l\u2019inici del proc\u00e9s fins al moment de satisfacci\u00f3 de la pretensi\u00f3 a trav\u00e9s del proc\u00e9s d\u2019execuci\u00f3. La finalitat de l\u2019assignatura \u00e9s que l\u2019estudiant tingui un absolut coneixement dels mecanismes processals per resoldre una q\u00fcesti\u00f3 concreta. D\u2019aquesta manera, des del punt de vista de la part, podr\u00e0 valorar els avantatges i els inconvenients de cada una de les opcions i aix\u00f2 li permetr\u00e0 adoptar la decisi\u00f3 en el cas concret m\u00e9s indicada per als interessos dels justiciables. Des de la posici\u00f3 de l\u2019\u00f2rgan jurisdiccional, la finalitat \u00e9s que tingui els coneixements necessaris per aplicar les normes processals en un cas concret i resoldre\u2019l de manera adequada en els diferents sup\u00f2sits que se li puguin plantejar. Tot aix\u00f2 tenint en compte els drets de les parts.", 
+        "Identificar la dimensi\u00f3 jur\u00eddica de les relacions humanes i socials i valorar-ne les implicacions en els diferents \u00e0mbits de l'ordenaci\u00f3.", 
+        "Utilitzar adequadament les fonts de coneixement en l'\u00e0mbit jur\u00eddic: legals, doctrinals i jurisprudencials."
+      ], 
+      "id": "362469", 
+      "name": "DRET PROCESSAL CIVIL", 
+      "type": "OB"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer i comprendre els mecanismes i els procediments de resoluci\u00f3 dels conflictes jur\u00eddics.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "362499", 
+      "name": "MITJANS ALTERNATIUS DE RESOLUCI\u00d3 DE CONFLICTES", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "362472", 
+      "name": "DRET SINDICAL", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Capacitat d'interpretar les normes jur\u00eddiques segons les regles pr\u00f2pies de cada \u00e0mbit del dret i d'aplicar-les als conflictes socials corresponents.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "Identificar la dimensi\u00f3 jur\u00eddica de les relacions humanes i socials i valorar-ne les implicacions en els diferents \u00e0mbits de l'ordenaci\u00f3.", 
+        "Utilitzar adequadament les fonts de coneixement en l'\u00e0mbit jur\u00eddic: legals, doctrinals i jurisprudencials."
+      ], 
+      "id": "362465", 
+      "name": "DRET DEL TREBALL I DE LA SEGURETAT SOCIAL", 
+      "type": "OB"
+    }, 
+    {
+      "extra_list": [
+        "Capacitat creativa i emprenedora (capacitat de formular, dissenyar i gestionar projectes / capacitat de cercar i integrar nous coneixements i actituds).", 
+        "Capacitat d'aprenentatge significatiu, responsabilitat respecte dels coneixements adquirits i formaci\u00f3 cont\u00ednua."
+      ], 
+      "id": "362766", 
+      "name": "PR\u00c0CTIQUES EXTERNES", 
+      "type": "PR"
+    }, 
+    {
+      "extra_list": [
+        "Capacitat de s\u00edntesi", 
+        "Con\u00e8ixer i comprendre els mecanismes i els procediments de resoluci\u00f3 dels conflictes jur\u00eddics.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 "
+      ], 
+      "id": "362500", 
+      "name": "ESTRAT\u00c8GIES PROCESSALS", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "362475", 
+      "name": "DRET DE LA PROPIETAT INDUSTRIAL", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer i actuar des del respecte als drets fonamentals, amb especial atenci\u00f3 a la igualtat entre homes i dones, a la diversitat funcional i a la cultura de la pau d'acord amb els valors democr\u00e0tics.", 
+        "Con\u00e8ixer i comprendre la pluralitat jur\u00eddica al m\u00f3n, l'evoluci\u00f3 de la societat internacional i de les seves institucions, la seva incid\u00e8ncia en l'elaboraci\u00f3 de normes jur\u00eddiques internacionals i transnacionals, i tamb\u00e9 interpretar els mecanismes de recepci\u00f3 d'aquestes normes en l'ordenaci\u00f3 jur\u00eddica espanyola.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "Fer servir amb destresa i precisi\u00f3 el llenguatge jur\u00eddic i la terminologia pr\u00f2pia de les diferents branques del dret en les lleng\u00fces catalana i castellana i ser capa\u00e7 de manejar documents i comunicar-se efica\u00e7ment en angl\u00e8s."
+      ], 
+      "id": "362477", 
+      "name": "ORGANITZACIONS INTERNACIONALS", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        " (Con\u00e8ixer el funcionament i els efectes, formals i materials, dels assentaments registrals, mitjan\u00e7ant l\u2019aprenentatge dels fonaments te\u00f2rics de la disciplina, a partir dels principis registrals i de la seva transcend\u00e8ncia pr\u00e0ctica.)", 
+        " (Con\u00e8ixer el funcionament i els efectes, formals i materials, dels assentaments registrals, mitjan\u00e7ant l\u2019aprenentatge dels fonaments te\u00f2rics de la disciplina, a partir dels principis registrals i de la seva trascend\u00e8ncia pr\u00e0ctica.)", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "362488", 
+      "name": "DRET REGISTRAL", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [], 
+      "id": "362459", 
+      "name": "DRET FINANCER I TRIBUTARI", 
+      "type": "OB"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "362482", 
+      "name": "TRIBUTACI\u00d3 EMPRESARIAL", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Comprendre la posici\u00f3 jur\u00eddica de les persones en les seves relacions amb l'Administraci\u00f3 i en general amb els poders p\u00fablics.", 
+        "Con\u00e8ixer i actuar des del respecte als drets fonamentals, amb especial atenci\u00f3 a la igualtat entre homes i dones, a la diversitat funcional i a la cultura de la pau d'acord amb els valors democr\u00e0tics.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "364725", 
+      "name": "Q\u00dcESTIONS D'ACTUALITAT JUR\u00cdDICA DE DRET P\u00daBLIC", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Comprendre el context hum\u00e0, econ\u00f2mic, social i pol\u00edtic del dret i saber valorar els efectes de les normes i altres decisions jur\u00eddiques en aquests \u00e0mbits.", 
+        "Comprendre el sistema institucional i la forma complexa de producci\u00f3 del dret en l'actualitat en els diferents nivells local, auton\u00f2mic, estatal, europeu i internacional.", 
+        "Comprendre i reflexionar cr\u00edticament sobre els valors impl\u00edcits en el dret, especialment el de just\u00edcia i la seva realitzaci\u00f3.", 
+        "Con\u00e8ixer i actuar des del respecte als drets fonamentals, amb especial atenci\u00f3 a la igualtat entre homes i dones, a la diversitat funcional i a la cultura de la pau d'acord amb els valors democr\u00e0tics.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "Entendre l'estructura de l'ordenaci\u00f3 jur\u00eddica i con\u00e8ixer i saber aplicar els criteris de prelaci\u00f3 de les fonts per determinar les normes aplicables en cada cas.", 
+        "Identificar la dimensi\u00f3 jur\u00eddica de les relacions humanes i socials i valorar-ne les implicacions en els diferents \u00e0mbits de l'ordenaci\u00f3."
+      ], 
+      "id": "362448", 
+      "name": "ORGANITZACI\u00d3 TERRITORIAL DE L'ESTAT", 
+      "type": "FB"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "Entendre el car\u00e0cter hist\u00f2ric del dret i con\u00e8ixer l'origen i l'evoluci\u00f3 de les ordenacions jur\u00eddiques."
+      ], 
+      "id": "362496", 
+      "name": "ESTAT I CONFESSIONS", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Capacitat d'interpretar les normes jur\u00eddiques segons les regles pr\u00f2pies de cada \u00e0mbit del dret i d'aplicar-les als conflictes socials corresponents.", 
+        "Comprendre i reflexionar cr\u00edticament sobre els valors impl\u00edcits en el dret, especialment el de just\u00edcia i la seva realitzaci\u00f3.", 
+        "Con\u00e8ixer i actuar des del respecte als drets fonamentals, amb especial atenci\u00f3 a la igualtat entre homes i dones, a la diversitat funcional i a la cultura de la pau d'acord amb els valors democr\u00e0tics.", 
+        "Entendre els fen\u00f2mens jur\u00eddics nous que planteja l'evoluci\u00f3 de la societat i dissenyar i conduir la investigaci\u00f3 necess\u00e0ria per afrontar la problem\u00e0tica conseg\u00fcent.", 
+        "Identificar la dimensi\u00f3 jur\u00eddica de les relacions humanes i socials i valorar-ne les implicacions en els diferents \u00e0mbits de l'ordenaci\u00f3."
+      ], 
+      "id": "362464", 
+      "name": "FILOSOFIA DEL DRET", 
+      "type": "OB"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "362502", 
+      "name": "EXECUCI\u00d3 PENAL", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Comprendre el sistema institucional i la forma complexa de producci\u00f3 del dret en l'actualitat en els diferents nivells local, auton\u00f2mic, estatal, europeu i internacional.", 
+        "Con\u00e8ixer i actuar des del respecte als drets fonamentals, amb especial atenci\u00f3 a la igualtat entre homes i dones, a la diversitat funcional i a la cultura de la pau d'acord amb els valors democr\u00e0tics.", 
+        "Entendre el car\u00e0cter hist\u00f2ric del dret i con\u00e8ixer l'origen i l'evoluci\u00f3 de les ordenacions jur\u00eddiques.", 
+        "Entendre l'estructura de l'ordenaci\u00f3 jur\u00eddica i con\u00e8ixer i saber aplicar els criteris de prelaci\u00f3 de les fonts per determinar les normes aplicables en cada cas."
+      ], 
+      "id": "362446", 
+      "name": "PRINCIPIS I INSTITUCIONS CONSTITUCIONALS", 
+      "type": "FB"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "364733", 
+      "name": "DRET DE LA COMPET\u00c8NCIA I DE LA PROPIETAT INDUSTRIAL", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        " (\r\n\t)", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "362497", 
+      "name": "IMMIGRACI\u00d3, NACIONALITAT I ESTRANGERIA", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Capacitat d'interpretar les normes jur\u00eddiques segons les regles pr\u00f2pies de cada \u00e0mbit del dret i d'aplicar-les als conflictes socials corresponents.", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques.", 
+        "Identificar la dimensi\u00f3 jur\u00eddica de les relacions humanes i socials i valorar-ne les implicacions en els diferents \u00e0mbits de l'ordenaci\u00f3.", 
+        "Utilitzar adequadament les fonts de coneixement en l'\u00e0mbit jur\u00eddic: legals, doctrinals i jurisprudencials."
+      ], 
+      "id": "362507", 
+      "name": "DRETS REALS", 
+      "type": "OB"
+    }, 
+    {
+      "extra_list": [
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "362486", 
+      "name": "DRET DE CONTRACTACI\u00d3", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Comprendre el context hum\u00e0, econ\u00f2mic, social i pol\u00edtic del dret i saber valorar els efectes de les normes i altres decisions jur\u00eddiques en aquests \u00e0mbits.", 
+        "Con\u00e8ixer i actuar des del respecte als drets fonamentals, amb especial atenci\u00f3 a la igualtat entre homes i dones, a la diversitat funcional i a la cultura de la pau d'acord amb els valors democr\u00e0tics.", 
+        "Sostenibilitat (capacitat de valorar l'impacte social i mediambiental d'actuacions en el seu \u00e0mbit / capacitat de manifestar visions integrades i sist\u00e8miques)."
+      ], 
+      "id": "362506", 
+      "name": "SOCIOLOGIA DEL DRET", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        " (\r\n\tCon\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l\u2019ordenament jur\u00eddic en les diferents branques.)", 
+        "Con\u00e8ixer, comprendre i saber usar els conceptes fonamentals i especialitzats de l'ordenaci\u00f3 jur\u00eddica en les seves diferents branques."
+      ], 
+      "id": "364731", 
+      "name": "DRET PENAL ECON\u00d2MIC", 
+      "type": "OT"
+    }, 
+    {
+      "extra_list": [
+        "Capacitat d'aprenentatge significatiu, responsabilitat respecte dels coneixements adquirits i formaci\u00f3 cont\u00ednua.", 
+        "Capacitat de comunicar oralment i per escrit idees i raonaments jur\u00eddics a una gamma \u00e0mplia i diversa de receptors, utilitzant els registres adequats per a cada context.", 
+        "Capacitat de llegir i comprendre textos jur\u00eddics de naturalesa diversa, d'analitzar-los i d'identificar-ne la informaci\u00f3 m\u00e9s rellevant.", 
+        "Fer servir amb destresa i precisi\u00f3 el llenguatge jur\u00eddic i la terminologia pr\u00f2pia de les diferents branques del dret en les lleng\u00fces catalana i castellana i ser capa\u00e7 de manejar documents i comunicar-se efica\u00e7ment en angl\u00e8s.", 
+        "Treball en equip (capacitat de col\u00b7laborar amb els altres i de contribuir a un projecte com\u00fa / capacitat de col\u00b7laborar en equips interdisciplinaris i en equips multiculturals).", 
+        "Utilitzar adequadament les fonts de coneixement en l'\u00e0mbit jur\u00eddic: legals, doctrinals i jurisprudencials."
+      ], 
+      "id": "362441", 
+      "name": "T\u00c8CNIQUES DE TREBALL I COMUNICACI\u00d3", 
+      "type": "FB"
+    }
+  ]
+}

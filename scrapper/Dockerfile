@@ -1,0 +1,8 @@
+FROM python:3.7-alpine
+
+# Needed to install psycopg2 (Postgres-Python interface)
+RUN apk update && apk add postgresql-dev gcc python3-dev musl-dev
+
+COPY /app/requirements.txt /app/requirements.txt
+WORKDIR /app
+RUN pip3 install -r requirements.txt
